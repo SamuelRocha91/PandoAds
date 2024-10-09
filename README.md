@@ -6,7 +6,9 @@ Bem-vindo ao repositório **PandoAds**!
 
 <details>
   <summary><h2>📜 Descrição</h2></summary>
-Este é um repositório de arquivos, destinado a guardar apontamentos, resenhas de livros e trabalhos realizados durante o curso de **Tecnólogo em Análise e Desenvolvimento de Sistemas (ADS)**, pela [Universidade Católica de Brasília](https://ucb.catolica.edu.br/). Assim como a árvore Pando, que cresce e se renova ao longo do tempo, espero que este repositório também se expanda como forma de conhecimento e aprendizado.
+
+Este é um repositório de arquivos, destinado a guardar apontamentos, resenhas de livros e trabalhos realizados durante o curso de  **Tecnólogo em Análise e Desenvolvimento de Sistemas (ADS)** , pela [Universidade Católica de Brasília](https://ucb.catolica.edu.br/). Assim como a árvore Pando, que cresce e se renova ao longo do tempo, espero que este repositório também se expanda como forma de conhecimento e aprendizado.
+
 </details>
 
 <details>
@@ -95,5 +97,14 @@ Este é um repositório de arquivos, destinado a guardar apontamentos, resenhas 
  </details> <!-- Fim pasta primeiro período -->
 
   </details> <!-- Fim pasta mãe -->
+
+</details>
+
+<details>
+  <summary><h2> 🌳 Curiosidade sobre o Pando<h2></summary>
+
+O **Pando** é um dos organismos mais fascinantes e antigos do mundo. Trata-se de uma enorme colônia de álamos tremedores interligados por um único sistema de raízes, cobrindo mais de 40 hectares e pesando cerca de 6.000 toneladas! Apesar de parecer uma floresta comum, todos os troncos fazem parte de um mesmo ser vivo, geneticamente idêntico, que pode ter até 80.000 anos.
+
+[Saiba mais sobre o Pando](https://en.wikipedia.org/wiki/Pando_(tree))
 
 </details>
