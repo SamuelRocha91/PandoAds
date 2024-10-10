@@ -47,6 +47,8 @@ Este repositório contém apontamentos, resenhas de livros e trabalhos realizado
 - **Gestão de TI e Interação Humano-Computador**
   - Unidade 1
     - Conceitos e Fundamentos de Serviços de TI
+      - [Resumo da Aula](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_1/Planejamento_estrategico/Unidade_1/Aula_01-Conceitos_basicos_de_gestao_estrategica/README_resumo..md)
+      - [Questionário](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_1/Planejamento_estrategico/Unidade_1/Aula_01-Conceitos_basicos_de_gestao_estrategica/README_questoes.md)
 </details>
 
 ---
