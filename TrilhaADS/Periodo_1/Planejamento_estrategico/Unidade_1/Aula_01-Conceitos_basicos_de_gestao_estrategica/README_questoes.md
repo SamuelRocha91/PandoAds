@@ -74,7 +74,6 @@ B) Escola Configuracional
 C) Escola de Aprendizado  
 D) Escola de Poder  
 
-Essas questões abrangem escolas que enfatizam tanto a emergência das estratégias quanto o papel das percepções e da configuração organizacional no processo estratégico.
 
 ## Gabarito:
 
