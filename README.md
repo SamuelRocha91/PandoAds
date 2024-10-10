@@ -41,13 +41,12 @@ Este repositório contém apontamentos, resenhas de livros e trabalhos realizado
 - **Planejamento Estratégico**
   - Unidade 1
     - Conceitos Básicos de Gestão Estratégica
+      - [Resumo da Aula](www.google.com)
+      - [Questionário](www.google.com)
 
 - **Gestão de TI e Interação Humano-Computador**
   - Unidade 1
     - Conceitos e Fundamentos de Serviços de TI
-      - [Resumo da Aula](www.google.com)
-      - [Questionário](www.google.com)
-    - Gestão de Projetos e Processos
 </details>
 
 ---
