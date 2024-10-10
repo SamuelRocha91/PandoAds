@@ -7,7 +7,7 @@ Bem-vindo ao repositório **PandoAds**!
 <details>
   <summary><h2>📜 Descrição</h2></summary>
 
-Este é um repositório de arquivos, destinado a guardar apontamentos, resenhas de livros e trabalhos realizados durante o curso de  **Tecnólogo em Análise e Desenvolvimento de Sistemas (ADS)** , pela [Universidade Católica de Brasília](https://ucb.catolica.edu.br/). Assim como a árvore Pando, que cresce e se renova ao longo do tempo, espero que este repositório também se expanda como forma de conhecimento e aprendizado.
+Este é um repositório de arquivos, destinado a guardar apontamentos, resenhas de livros e trabalhos realizados durante o curso de  **Tecnólogo em Análise e Desenvolvimento de Sistemas (ADS)** , pela [Universidade Católica de Brasília](https://ucb.catolica.edu.br/). Assim como a árvore Pando, que cresce e se renova ao longo do tempo, espero que este repositório também se expanda como forma de expansão do meu conhecimento e aprendizado.
 
 </details>
 
@@ -15,7 +15,6 @@ Este é um repositório de arquivos, destinado a guardar apontamentos, resenhas 
   <summary><h2>📚 Funcionalidades</h2></summary>
 
 - **Apontamentos**: Notas detalhadas das aulas e estudos que me ajudaram a compreender melhor os tópicos abordados.
-- **Resumos**: Compilações concisas dos principais conceitos e práticas, facilitando a revisão e o estudo.
 - **Ponderações**: Reflexões pessoais sobre o que aprendi e como posso aplicar esse conhecimento no futuro.
 - **Trabalhos**: Projetos e exercícios práticos realizados durante o curso, mostrando a aplicação dos conhecimentos adquiridos.
 
@@ -84,6 +83,9 @@ Este é um repositório de arquivos, destinado a guardar apontamentos, resenhas 
 
    <details> <!-- Pasta de Aula 1 -->
               <summary> <h4><strong> /Conceitos_e_fundamentos_de_servicos_de_ti </strong></h4></summary>
+
+ - [x] 1-1: [Resumo da aula](www.google.com)
+
        </details>
 
    <details> <!-- Pasta de Aula 2 -->
