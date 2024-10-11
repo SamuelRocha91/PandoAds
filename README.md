@@ -35,6 +35,8 @@ Este repositório contém apontamentos, resenhas de livros e trabalhos realizado
 - **Engenharia de Software e Requisitos**
   - Unidade 1
     - Introdução à Engenharia de Software
+      - [Resumo da Aula](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_1/Engenharia_de_software_e_requisitos/Unidade_1/Aula_01-Introducao_a_engenharia_de_software/README_resumo..md)
+      - [Questionário](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_1/Engenharia_de_software_e_requisitos/Unidade_1/Aula_01-Introducao_a_engenharia_de_software/README_questoes.md)
     - Introdução a Requisitos de Software
     - Engenharia de Requisitos de Software
 
@@ -50,8 +52,8 @@ Este repositório contém apontamentos, resenhas de livros e trabalhos realizado
       - [Resumo da Aula](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_1/Gestao_de_ti_e_interacao_humano_computador/Unidade_1/Aula_01-Conceitos_e_fundamentos_de_servicos_de_ti/README_resumo..md)
       - [Questionário](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_1/Gestao_de_ti_e_interacao_humano_computador/Unidade_1/Aula_01-Conceitos_e_fundamentos_de_servicos_de_ti/README_questoes.md)
     - Gestão de projetos e processos
-      - [Resumo da Aula](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_1/Gestao_de_ti_e_interacao_humano_computador/Unidade_1/Aula_01-Conceitos_e_fundamentos_de_servicos_de_ti/README_resumo..md)
-      - [Questionário](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_1/Gestao_de_ti_e_interacao_humano_computador/Unidade_1/Aula_01-Conceitos_e_fundamentos_de_servicos_de_ti/README_questoes.md)
+      - [Resumo da Aula](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_1/Gestao_de_ti_e_interacao_humano_computador/Unidade_1/Aula_02-Gestao_de_projetos_e_processos/README_resumo..md)
+      - [Questionário](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_1/Gestao_de_ti_e_interacao_humano_computador/Unidade_1/Aula_02-Gestao_de_projetos_e_processos/README_resumo..md)
 </details>
 
 ---
