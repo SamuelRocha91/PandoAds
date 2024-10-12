@@ -41,6 +41,8 @@ Este repositório contém apontamentos, resenhas de livros e trabalhos realizado
       - [Resumo da Aula](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_1/Engenharia_de_software_e_requisitos/Unidade_1/Aula_02-Introducao_a_requisitos_de_software/README_resumo..md)
       - [Questionário](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_1/Engenharia_de_software_e_requisitos/Unidade_1/Aula_02-Introducao_a_requisitos_de_software/README_questoes.md)
     - Engenharia de Requisitos de Software
+      - [Resumo da Aula](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_1/Engenharia_de_software_e_requisitos/Unidade_1/Aula_03-Engenharia_de_requisitos_de_software/README_resumo..md)
+      - [Questionário](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_1/Engenharia_de_software_e_requisitos/Unidade_1/Aula_03-Engenharia_de_requisitos_de_software/README_questoes.md)
 
 - **Planejamento Estratégico**
   - Unidade 1
