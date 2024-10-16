@@ -47,6 +47,9 @@ Este repositório contém apontamentos, resenhas de livros e trabalhos realizado
     - Modelos de ciclo de vida e de processos de software
         - [Resumo da Aula](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_1/Engenharia_de_software_e_requisitos/Unidade_2/Aula_01-Modelo_de_ciclo_de_vida_e_de_processos/README_resumo..md)
         - [Questionário](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_1/Engenharia_de_software_e_requisitos/Unidade_2/Aula_01-Modelo_de_ciclo_de_vida_e_de_processos/README_questoes.md)
+    - Análise de requisitos de software
+        - [Resumo da Aula](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_1/Engenharia_de_software_e_requisitos/Unidade_2/Aula_02-Analise_de_requisito_de_software/README_resumo..md)
+        - [Questionário](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_1/Engenharia_de_software_e_requisitos/Unidade_2/Aula_02-Analise_de_requisito_de_software/README_questoes.md)
 
 - **Planejamento Estratégico**
   - Unidade 1
