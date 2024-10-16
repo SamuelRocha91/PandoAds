@@ -43,6 +43,10 @@ Este repositório contém apontamentos, resenhas de livros e trabalhos realizado
     - Engenharia de Requisitos de Software
       - [Resumo da Aula](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_1/Engenharia_de_software_e_requisitos/Unidade_1/Aula_03-Engenharia_de_requisitos_de_software/README_resumo..md)
       - [Questionário](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_1/Engenharia_de_software_e_requisitos/Unidade_1/Aula_03-Engenharia_de_requisitos_de_software/README_questoes.md)
+  - Unidade 2
+    - Modelos de ciclo de vida e de processos de software
+        - [Resumo da Aula](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_1/Engenharia_de_software_e_requisitos/Unidade_2/Aula_01-Modelo_de_ciclo_de_vida_e_de_processos/README_resumo..md)
+        - [Questionário](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_1/Engenharia_de_software_e_requisitos/Unidade_2/Aula_01-Modelo_de_ciclo_de_vida_e_de_processos/README_questoes.md)
 
 - **Planejamento Estratégico**
   - Unidade 1
