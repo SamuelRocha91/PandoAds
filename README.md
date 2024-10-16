@@ -67,6 +67,9 @@ Este repositório contém apontamentos, resenhas de livros e trabalhos realizado
     - Melhores práticas de gerenciamento de serviços de TI
       - [Resumo da Aula](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_1/Gestao_de_ti_e_interacao_humano_computador/Unidade_2/Aula_01-Melhores_praticas_gerenciamento_servicos_ti/README_resumo..md)
       - [Questionário](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_1/Gestao_de_ti_e_interacao_humano_computador/Unidade_2/Aula_01-Melhores_praticas_gerenciamento_servicos_ti/README_resumo..md)
+    - Gerenciamento de serviços de TI
+      - [Resumo da Aula](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_1/Gestao_de_ti_e_interacao_humano_computador/Unidade_2/Aula_02-Gerenciamento_se_servicos/README_resumo..md)
+      - [Questionário](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_1/Gestao_de_ti_e_interacao_humano_computador/Unidade_2/Aula_02-Gerenciamento_se_servicos/README_resumo..md)
 </details>
 
 ---
