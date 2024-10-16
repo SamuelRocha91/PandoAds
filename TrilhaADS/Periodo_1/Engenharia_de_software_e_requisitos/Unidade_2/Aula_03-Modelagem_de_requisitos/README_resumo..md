@@ -1,6 +1,6 @@
 # Resumo
 
-A aula sobre Análise de requisitos de software pode ser observada sob os seguintes enfoques:
+A aula sobre Modelagem de requisitos de software pode ser observada sob os seguintes enfoques:
 
 ## Mapa mental
 
