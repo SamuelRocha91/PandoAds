@@ -1,6 +1,6 @@
 # Resumo
 
-A aula sobre planejamento estratégico pode ser observada sob os seguintes enfoques:
+A aula sobre ITIL pode ser observada sob os seguintes enfoques:
 
 ## Mapa mental
 
