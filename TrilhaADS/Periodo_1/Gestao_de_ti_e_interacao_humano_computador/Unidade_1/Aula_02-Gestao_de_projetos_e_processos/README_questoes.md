@@ -88,8 +88,6 @@ D) Ela assegura que os objetivos estratégicos da organização sejam refletidos
 
 ---
 
-Aqui estão três questões sobre a implementação do COBIT 5:
-
 ### Questão 10: Qual é o principal objetivo da implementação do COBIT 5 em uma organização?
 
 A) Reduzir os custos operacionais da TI.  
@@ -143,8 +141,6 @@ C) Reduzir o número de processos de TI para simplificar a gestão.
 D) Focar exclusivamente na segurança da informação dentro dos processos de TI.
 
 ---
-
-Aqui estão cinco questões sobre os aspectos conceituais da metodologia da ISO 20000:
 
 ### Questão 16: Qual é o principal objetivo da ISO 20000?
 

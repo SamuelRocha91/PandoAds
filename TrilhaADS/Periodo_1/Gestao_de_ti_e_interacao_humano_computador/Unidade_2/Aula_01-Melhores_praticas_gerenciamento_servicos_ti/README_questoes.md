@@ -117,6 +117,150 @@
    d) Uma análise de riscos potenciais associados ao mercado.
 
 
+---
+
+19. Qual é o principal objetivo da fase de Transição de Serviço no ITIL?  
+
+A) Garantir que os serviços estejam continuamente disponíveis para os usuários finais.  
+B) Proporcionar melhoria contínua para todos os serviços em operação.  
+C) Gerenciar mudanças no ciclo de vida de um serviço, assegurando que ele possa ser planejado, testado e implementado com sucesso.  
+D) Identificar e mitigar incidentes e problemas no ambiente de produção.
+
+
+---
+
+20. Qual processo da Transição de Serviço é responsável por garantir que todos os aspectos de um serviço novo ou modificado sejam adequadamente avaliados antes de sua implementação?  
+
+A) Gerenciamento de Configuração e Ativos de Serviço  
+B) Validação e Testes de Serviço  
+C) Gerenciamento de Incidentes  
+D) Planejamento e Suporte à Transição
+
+---
+
+21. No contexto da Transição de Serviço, o que o processo de Gerenciamento de Mudanças visa alcançar?  
+
+A) Minimizar a interrupção do serviço durante a implementação de mudanças.  
+B) Prover suporte técnico aos usuários finais durante mudanças.  
+C) Maximizar o tempo de resposta dos sistemas para novas mudanças.  
+D) Identificar e corrigir erros conhecidos em produção.
+
+--- 
+
+
+22. Qual processo da Transição de Serviço garante que novos ou modificados serviços cumpram os requisitos acordados de negócio?  
+
+A) Gerenciamento de Incidentes  
+B) Gerenciamento de Configuração e Ativos de Serviço  
+C) Planejamento e Suporte à Transição  
+D) Validação e Testes de Serviço
+
+
+---
+
+23. O que o processo de Gerenciamento de Liberação e Implantação foca durante a Transição de Serviço?  
+
+A) Registrar todos os ativos e configurações de um serviço.  
+B) Assegurar que as mudanças sejam avaliadas adequadamente antes de sua implementação.  
+C) Implementar, distribuir e garantir o funcionamento de novas versões de serviços no ambiente de produção.  
+D) Detectar problemas de serviço antes que eles afetem os usuários.
+
+24. Qual das seguintes atividades faz parte do processo de Gerenciamento de Conhecimento na fase de Transição de Serviço do ITIL?  
+
+A) Monitorar a performance dos serviços em operação.  
+B) Facilitar a tomada de decisões informada, fornecendo dados e informações precisas sobre os serviços.  
+C) Gerenciar incidentes que surgem durante a transição.  
+D) Aprovar mudanças no design do serviço antes da implementação.
+
+---
+
+25. Qual é o principal objetivo da fase de Operações de Serviço no ITIL?  
+
+A) Propor melhorias contínuas para todos os serviços.  
+B) Assegurar que os serviços de TI sejam entregues e gerenciados de acordo com os níveis de serviço acordados.  
+C) Planejar a implementação de novos serviços no ambiente de produção.  
+D) Monitorar o desempenho do serviço ao longo de seu ciclo de vida.
+
+
+26. No contexto de Operações de Serviço, qual processo é responsável por restaurar o serviço o mais rápido possível após uma interrupção?  
+
+A) Gerenciamento de Problemas  
+B) Gerenciamento de Incidentes  
+C) Gerenciamento de Eventos  
+D) Gerenciamento de Acessos
+
+---
+
+27. Qual é o objetivo do processo de Gerenciamento de Problemas na fase de Operações de Serviço?  
+
+A) Garantir que todos os serviços de TI sejam restaurados rapidamente após uma falha.  
+B) Detectar e corrigir incidentes que afetam a disponibilidade do serviço.  
+C) Identificar a causa raiz dos incidentes e minimizar o impacto futuro, evitando recorrências.  
+D) Monitorar e registrar todos os eventos que possam afetar os serviços.
+
+Aqui estão mais três questões de múltipla escolha sobre o Livro 4 do ITIL (Operações de Serviço):
+
+---
+
+28. Qual é o propósito do processo de Gerenciamento de Acessos na fase de Operações de Serviço?  
+
+A) Monitorar e controlar mudanças nos serviços de TI.  
+B) Gerenciar incidentes relacionados ao desempenho do serviço.  
+C) Garantir que apenas usuários autorizados possam acessar determinados serviços e dados.  
+D) Fornecer suporte técnico aos usuários finais.
+
+---
+
+29. Qual é a função principal do Gerenciamento de Eventos no ITIL?  
+
+A) Identificar e responder a mudanças de estado que possam afetar a entrega de serviços.  
+B) Coordenar a implantação de novas versões de serviço em produção.  
+C) Identificar a causa raiz dos incidentes e propor soluções definitivas.  
+D) Fornecer acesso a relatórios de desempenho de serviço para os clientes.
+
+
+---
+
+30. Qual é o objetivo do Centro de Suporte (Service Desk) no contexto de Operações de Serviço?  
+
+A) Identificar tendências de incidentes e problemas ao longo do tempo.  
+B) Fornecer um único ponto de contato entre o provedor de serviço e os usuários para registrar e resolver incidentes.  
+C) Monitorar o desempenho do serviço e propor melhorias contínuas.  
+D) Gerenciar o ciclo de vida completo de todos os serviços de TI.
+
+
+---
+
+31. Qual é o principal objetivo da fase de Melhoria Contínua de Serviço no ITIL?  
+
+A) Garantir que novos serviços sejam entregues dentro do prazo e orçamento.  
+B) Melhorar continuamente a eficácia e eficiência dos serviços e processos, alinhando-os às necessidades do negócio.  
+C) Restaurar rapidamente o serviço após uma interrupção.  
+D) Implementar novos serviços e tecnologias conforme solicitado pelos usuários.
+
+
+---
+
+32. Qual ferramenta é utilizada no processo de Melhoria Contínua de Serviço para identificar áreas de melhoria?  
+
+A) Análise de Impacto  
+B) Revisões Pós-Implementação  
+C) Ciclo PDCA (Plan-Do-Check-Act)  
+D) Análise SWOT (Strengths, Weaknesses, Opportunities, Threats)
+
+
+---
+
+33. que é o Relatório de Revisão de Serviço (Service Review) na fase de Melhoria Contínua de Serviço?  
+
+A) Um relatório utilizado para descrever os problemas de desempenho do serviço no mês anterior.  
+B) Uma avaliação periódica dos níveis de serviço acordados para identificar oportunidades de melhorias.  
+C) Um documento usado para aprovar mudanças no design de novos serviços.  
+D) Uma revisão das mudanças implementadas durante a Transição de Serviço.
+
+
+---
+
 
 ## Gabarito:
 
@@ -138,5 +282,18 @@
 16) B;
 17) B;
 18) B;
-
-
+19) C;
+20) B;
+21) A;
+22) D;
+23) D;
+24) C;
+25) B;
+26) B;
+27) C;
+28) C;
+29) A;
+30) B
+31) B;
+32) C;
+33) B.
