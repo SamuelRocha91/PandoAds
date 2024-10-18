@@ -122,7 +122,6 @@ D) A consistência não é importante, desde que o software funcione corretament
 
 ---
 
-Aqui estão mais três questões sobre os princípios de engenharia de software de Hooker:
 
 ### Questão 13: Princípio da Modularidade
 De acordo com o princípio da modularidade de Hooker, como o software deve ser projetado?

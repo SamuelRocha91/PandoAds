@@ -36,7 +36,6 @@ B) Medição contínua do desempenho e ajuste das estratégias quando necessári
 C) Definição de novos produtos e serviços para o portfólio  
 D) Identificação das forças e fraquezas da empresa  
 
-Aqui estão três questões relacionadas às **escolas do pensamento estratégico**:
 
 **6. A **Escola do Design** no pensamento estratégico se concentra em:**
 
