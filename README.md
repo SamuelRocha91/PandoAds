@@ -63,6 +63,10 @@ Este repositório contém apontamentos, resenhas de livros e trabalhos realizado
     - Estabelecendo o plano estratégico
       - [Resumo da Aula](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_1/Planejamento_estrategico/Unidade_2/Aula_01-Estabelecendo_o_plano_estratégico/README_resumo..md)
       - [Questionário](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_1/Planejamento_estrategico/Unidade_2/Aula_01-Estabelecendo_o_plano_estratégico/README_questoes.md)
+  - Unidade 3
+    - Estratégia e escopo corporativo
+      - [Resumo da Aula](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_1/Planejamento_estrategico/Unidade_3/Aula_01-Estrategias_e_escopo_corporativo/README_resumo..md)
+      - [Questionário](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_1/Planejamento_estrategico/Unidade_3/Aula_01-Estrategias_e_escopo_corporativo/README_questoes.md)
 
 
 - **Gestão de TI e Interação Humano-Computador**

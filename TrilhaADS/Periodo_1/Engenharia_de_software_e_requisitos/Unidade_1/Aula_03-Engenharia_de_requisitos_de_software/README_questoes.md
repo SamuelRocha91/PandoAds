@@ -2,8 +2,6 @@
 
 ---
 
-Aqui estão as 3 questões sobre problemas no levantamento de requisitos de software:
-
 ### 1. Qual dos seguintes problemas é comum no processo de levantamento de requisitos de software?
 A) Falta de comunicação entre os desenvolvedores  
 B) Clareza excessiva nas especificações dos requisitos  
@@ -76,9 +74,7 @@ D) Análise SWOT
 A) Ignorada, pois a técnica se concentra apenas na voz do cliente  
 B) Facilitada, já que promove a colaboração entre diferentes departamentos  
 C) Reduzida, para evitar conflitos entre os membros da equipe  
-D) Limitada a reuniões formais, sem espaço para feedback contínuo
-
-### 13. Os casos de uso são utilizados principalmente para:
+D) Limitada a reuniões  são utilizados principalmente para:
 A) Descrever os requisitos não funcionais do sistema  
 B) Definir as interações entre os usuários e o sistema  
 C) Documentar o código-fonte do software  
