@@ -30,7 +30,12 @@ Este repositório contém apontamentos, resenhas de livros e trabalhos realizado
 
 ### 📂 /TrilhaAds
 
-#### 📁 /Periodo_1
+<details>
+ <summary>
+
+ #### 📁 /Periodo_1
+
+</summary> 
 
 - **Engenharia de Software e Requisitos**
   - Unidade 1
@@ -88,6 +93,11 @@ Este repositório contém apontamentos, resenhas de livros e trabalhos realizado
     - Fundamentos da Interação humano-computador
       - [Resumo da Aula](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_1/Gestao_de_ti_e_interacao_humano_computador/Unidade_3/Aula_01-Fundamentos_interacao_humano_computador/README_resumo..md)
       - [Questionário](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_1/Gestao_de_ti_e_interacao_humano_computador/Unidade_3/Aula_01-Fundamentos_interacao_humano_computador/README_questoes.md)
+    - Sistemas Multimída
+      - [Resumo da Aula](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_1/Gestao_de_ti_e_interacao_humano_computador/Unidade_3/Aula_02-Hipermidia_e_multimidia/README_resumo..md)
+      - [Questionário](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_1/Gestao_de_ti_e_interacao_humano_computador/Unidade_3/Aula_02-Hipermidia_e_multimidia/README_questoes.md)
+</details>
+
 
 </details>
 
