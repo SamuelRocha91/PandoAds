@@ -58,6 +58,17 @@ Este repositório contém apontamentos, resenhas de livros e trabalhos realizado
     - Modelagem de requisitos de software
         - [Resumo da Aula](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_1/Engenharia_de_software_e_requisitos/Unidade_2/Aula_03-Modelagem_de_requisitos/README_resumo..md)
         - [Questionário](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_1/Engenharia_de_software_e_requisitos/Unidade_2/Aula_03-Modelagem_de_requisitos/README_questoes.md)
+  - Unidade 3
+    - Metodologias ágeis
+        - [Resumo da Aula](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_1/Engenharia_de_software_e_requisitos/Unidade_3/Aula_01-Metodologias_ageis/README_resumo..md)
+        - [Questionário](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_1/Engenharia_de_software_e_requisitos/Unidade_3/Aula_01-Metodologias_ageis/README_questoes.md)
+    - Validação de requisitos de software
+        - [Resumo da Aula](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_1/Engenharia_de_software_e_requisitos/Unidade_3/Aula_02-Validacao_de_requisitos_de_software/README_resumo..md)
+        - [Questionário](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_1/Engenharia_de_software_e_requisitos/Unidade_3/Aula_02-Validacao_de_requisitos_de_software/README_questoes.md)
+    - Gerenciamento de requisitos de software
+        - [Resumo da Aula](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_1/Engenharia_de_software_e_requisitos/Unidade_3/Aula_03-Gerenciamento_de_requsitos_de_software/README_resumo..md)
+        - [Questionário](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_1/Engenharia_de_software_e_requisitos/Unidade_3/Aula_03-Gerenciamento_de_requsitos_de_software/README_questoes.md)
+
 
 - **Planejamento Estratégico**
   - Unidade 1
