@@ -84,6 +84,11 @@ Este repositório contém apontamentos, resenhas de livros e trabalhos realizado
     - Gerenciamento de serviços de TI
       - [Resumo da Aula](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_1/Gestao_de_ti_e_interacao_humano_computador/Unidade_2/Aula_02-Gerenciamento_se_servicos/README_resumo..md)
       - [Questionário](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_1/Gestao_de_ti_e_interacao_humano_computador/Unidade_2/Aula_02-Gerenciamento_se_servicos/README_resumo..md)
+  - Unidade 3
+    - Fundamentos da Interação humano-computador
+      - [Resumo da Aula](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_1/Gestao_de_ti_e_interacao_humano_computador/Unidade_3/Aula_01-Fundamentos_interacao_humano_computador/README_resumo..md)
+      - [Questionário](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_1/Gestao_de_ti_e_interacao_humano_computador/Unidade_3/Aula_01-Fundamentos_interacao_humano_computador/README_questoes.md)
+
 </details>
 
 ---
