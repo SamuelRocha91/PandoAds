@@ -4,4 +4,4 @@ A aula sobre Usabilidade de software pode ser observada sob os seguintes enfoque
 
 ## Mapa mental
 
-![Mapa mental da aula](../../../../../images/pe4_1.png)
+![Mapa mental da aula](../../../../../images/GTI4_1.png)
