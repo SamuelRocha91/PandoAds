@@ -50,24 +50,35 @@ Este repositório contém apontamentos, resenhas de livros e trabalhos realizado
       - [Questionário](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_1/Engenharia_de_software_e_requisitos/Unidade_1/Aula_03-Engenharia_de_requisitos_de_software/README_questoes.md)
   - Unidade 2
     - Modelos de ciclo de vida e de processos de software
-        - [Resumo da Aula](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_1/Engenharia_de_software_e_requisitos/Unidade_2/Aula_01-Modelo_de_ciclo_de_vida_e_de_processos/README_resumo..md)
-        - [Questionário](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_1/Engenharia_de_software_e_requisitos/Unidade_2/Aula_01-Modelo_de_ciclo_de_vida_e_de_processos/README_questoes.md)
+      - [Resumo da Aula](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_1/Engenharia_de_software_e_requisitos/Unidade_2/Aula_01-Modelo_de_ciclo_de_vida_e_de_processos/README_resumo..md)
+      - [Questionário](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_1/Engenharia_de_software_e_requisitos/Unidade_2/Aula_01-Modelo_de_ciclo_de_vida_e_de_processos/README_questoes.md)
     - Análise de requisitos de software
-        - [Resumo da Aula](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_1/Engenharia_de_software_e_requisitos/Unidade_2/Aula_02-Analise_de_requisito_de_software/README_resumo..md)
-        - [Questionário](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_1/Engenharia_de_software_e_requisitos/Unidade_2/Aula_02-Analise_de_requisito_de_software/README_questoes.md)
+      - [Resumo da Aula](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_1/Engenharia_de_software_e_requisitos/Unidade_2/Aula_02-Analise_de_requisito_de_software/README_resumo..md)
+      - [Questionário](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_1/Engenharia_de_software_e_requisitos/Unidade_2/Aula_02-Analise_de_requisito_de_software/README_questoes.md)
     - Modelagem de requisitos de software
-        - [Resumo da Aula](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_1/Engenharia_de_software_e_requisitos/Unidade_2/Aula_03-Modelagem_de_requisitos/README_resumo..md)
-        - [Questionário](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_1/Engenharia_de_software_e_requisitos/Unidade_2/Aula_03-Modelagem_de_requisitos/README_questoes.md)
+      - [Resumo da Aula](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_1/Engenharia_de_software_e_requisitos/Unidade_2/Aula_03-Modelagem_de_requisitos/README_resumo..md)
+      - [Questionário](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_1/Engenharia_de_software_e_requisitos/Unidade_2/Aula_03-Modelagem_de_requisitos/README_questoes.md)
   - Unidade 3
     - Metodologias ágeis
-        - [Resumo da Aula](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_1/Engenharia_de_software_e_requisitos/Unidade_3/Aula_01-Metodologias_ageis/README_resumo..md)
-        - [Questionário](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_1/Engenharia_de_software_e_requisitos/Unidade_3/Aula_01-Metodologias_ageis/README_questoes.md)
+      - [Resumo da Aula](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_1/Engenharia_de_software_e_requisitos/Unidade_3/Aula_01-Metodologias_ageis/README_resumo..md)
+      - [Questionário](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_1/Engenharia_de_software_e_requisitos/Unidade_3/Aula_01-Metodologias_ageis/README_questoes.md)
     - Validação de requisitos de software
-        - [Resumo da Aula](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_1/Engenharia_de_software_e_requisitos/Unidade_3/Aula_02-Validacao_de_requisitos_de_software/README_resumo..md)
-        - [Questionário](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_1/Engenharia_de_software_e_requisitos/Unidade_3/Aula_02-Validacao_de_requisitos_de_software/README_questoes.md)
+      - [Resumo da Aula](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_1/Engenharia_de_software_e_requisitos/Unidade_3/Aula_02-Validacao_de_requisitos_de_software/README_resumo..md)
+      - [Questionário](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_1/Engenharia_de_software_e_requisitos/Unidade_3/Aula_02-Validacao_de_requisitos_de_software/README_questoes.md)
     - Gerenciamento de requisitos de software
-        - [Resumo da Aula](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_1/Engenharia_de_software_e_requisitos/Unidade_3/Aula_03-Gerenciamento_de_requsitos_de_software/README_resumo..md)
-        - [Questionário](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_1/Engenharia_de_software_e_requisitos/Unidade_3/Aula_03-Gerenciamento_de_requsitos_de_software/README_questoes.md)
+      - [Resumo da Aula](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_1/Engenharia_de_software_e_requisitos/Unidade_3/Aula_03-Gerenciamento_de_requsitos_de_software/README_resumo..md)
+      - [Questionário](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_1/Engenharia_de_software_e_requisitos/Unidade_3/Aula_03-Gerenciamento_de_requsitos_de_software/README_questoes.md)
+  - Unidade 4
+    - Atividades e processos desenvolvimento de software
+      - [Resumo da Aula](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_1/Engenharia_de_software_e_requisitos/Unidade_4/Aula_01-Desenvolvimento_de_software/README_resumo..md)
+      - [Questionário](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_1/Engenharia_de_software_e_requisitos/Unidade_4/Aula_01-Desenvolvimento_de_software/README_questoes.md)
+    - Rastreabilidade de requisistos de software
+      - [Resumo da Aula](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_1/Engenharia_de_software_e_requisitos/Unidade_4/Aula_02-Rastreabilidade_de_requisitos/README_resumo..md)
+      - [Questionário](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_1/Engenharia_de_software_e_requisitos/Unidade_4/Aula_02-Rastreabilidade_de_requisitos/README_questoes.md)
+    - Ferramentas CASE
+      - [Resumo da Aula](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_1/Engenharia_de_software_e_requisitos/Unidade_4/Aula_03-Ferramentas_CASE/README_resumo..md)
+      - [Questionário](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_1/Engenharia_de_software_e_requisitos/Unidade_4/Aula_03-Ferramentas_CASE/README_questoes.md)
+
 
 
 - **Planejamento Estratégico**
@@ -83,6 +94,10 @@ Este repositório contém apontamentos, resenhas de livros e trabalhos realizado
     - Estratégia e escopo corporativo
       - [Resumo da Aula](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_1/Planejamento_estrategico/Unidade_3/Aula_01-Estrategias_e_escopo_corporativo/README_resumo..md)
       - [Questionário](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_1/Planejamento_estrategico/Unidade_3/Aula_01-Estrategias_e_escopo_corporativo/README_questoes.md)
+  - Unidade 4
+    - Mensuração da estratégia e inteligência competitiva
+      - [Resumo da Aula](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_1/Planejamento_estrategico/Unidade_4/Aula_01-Mapeando_e_inteligencia_competitiva/README_resumo..md)
+      - [Questionário](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_1/Planejamento_estrategico/Unidade_4/Aula_01-Mapeando_e_inteligencia_competitiva/README_questoes.md)
 
 
 - **Gestão de TI e Interação Humano-Computador**
@@ -107,6 +122,13 @@ Este repositório contém apontamentos, resenhas de livros e trabalhos realizado
     - Sistemas Multimída
       - [Resumo da Aula](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_1/Gestao_de_ti_e_interacao_humano_computador/Unidade_3/Aula_02-Hipermidia_e_multimidia/README_resumo..md)
       - [Questionário](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_1/Gestao_de_ti_e_interacao_humano_computador/Unidade_3/Aula_02-Hipermidia_e_multimidia/README_questoes.md)
+  - Unidade 4
+    - Usabilidade de software
+      - [Resumo da Aula](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_1/Gestao_de_ti_e_interacao_humano_computador/Unidade_4/Aula_01-Usabilidade_de_software/README_resumo..md)
+      - [Questionário](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_1/Gestao_de_ti_e_interacao_humano_computador/Unidade_4/Aula_01-Usabilidade_de_software/README_questoes.md)
+    - Design e projeto de interfaces
+      - [Resumo da Aula](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_1/Gestao_de_ti_e_interacao_humano_computador/Unidade_4/Aula_02-Design_e_projeto_de_interface/README_resumo..md)
+      - [Questionário](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_1/Gestao_de_ti_e_interacao_humano_computador/Unidade_4/Aula_02-Design_e_projeto_de_interface/README_questoes.md)
 </details>
 
 
