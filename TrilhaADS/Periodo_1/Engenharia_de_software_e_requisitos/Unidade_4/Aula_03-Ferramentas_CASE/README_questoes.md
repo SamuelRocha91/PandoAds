@@ -1,206 +1,149 @@
 ## Questões para praticar
 
----
-### Questão 1
-**Qual é o principal objetivo do gerenciamento de requisitos de software?**
-a) Minimizar o tempo de desenvolvimento.  
-b) Garantir que os requisitos sejam gerenciados e rastreados ao longo do ciclo de vida do software.  
-c) Aumentar a complexidade do sistema.  
-d) Eliminar a necessidade de documentação.
+Questão 1:
 
-### Questão 2
-**Quais são considerados aspectos importantes na gestão de requisitos?**
-a) Documentação e codificação.  
-b) Comunicação e rastreabilidade.  
-c) Testes e implementação.  
-d) Desdobramento e implementação.
+Qual das seguintes opções NÃO é uma vantagem da utilização de ferramentas CASE?
 
-### Questão 3
-**O que se entende por gerenciamento de mudanças em requisitos?**
-a) Alterar os requisitos sem consultar as partes interessadas.  
-b) Um processo formal para avaliar, aprovar e implementar alterações nos requisitos.  
-c) Ignorar requisitos desatualizados.  
-d) Reduzir a quantidade de requisitos.
+a) Aumento da produtividade no desenvolvimento de software.
+b) Melhora da qualidade do software final.
+c) Aumento significativo dos custos de desenvolvimento.
+d) Facilitação da comunicação entre os membros da equipe.
 
-### Questão 4
-**Como o gerenciamento dos relacionamentos entre mudanças afeta o projeto?**
-a) Facilita a identificação de como as alterações em um requisito podem impactar outros requisitos.  
-b) Torna o projeto mais rígido e inflexível.  
-c) Impede que mudanças sejam feitas.  
-d) Elimina a necessidade de comunicação entre as partes interessadas.
+Questão 2:
 
-### Questão 5
-**Qual é a importância de gerenciar as dependências entre documentos de requisitos?**
-a) Para aumentar a complexidade da documentação.  
-b) Para assegurar que alterações em um documento sejam refletidas em outros documentos relevantes.  
-c) Para manter a documentação irrelevante.  
-d) Para reduzir o número de documentos necessários.
+Qual das seguintes ferramentas CASE é mais focada na modelagem UML e na geração de código?
 
-### Questão 6
-**Quais são os resultados esperados de um bom gerenciamento de requisitos?**
-a) Diminuição da satisfação do cliente.  
-b) Aumento da confusão entre os membros da equipe.  
-c) Melhor alinhamento entre os requisitos do cliente e as entregas do software.  
-d) Aumento da quantidade de erros no software.
+a) Microsoft Visio
+b) Enterprise Architect
+c) Microsoft Excel
+d) Notepad++
 
-### Questão 7
-**No contexto do gerenciamento de requisitos, a rastreabilidade refere-se a:**
-a) Capacidade de seguir os requisitos através das fases de desenvolvimento e suas mudanças.  
-b) Capacidade de ignorar requisitos desnecessários.  
-c) Capacidade de documentar apenas os requisitos que foram implementados.  
-d) Capacidade de restringir o acesso aos documentos de requisitos.
+Questão 3:
 
-### Questão 8
-**O que se entende por volatilidade de requisitos?**
-a) A incapacidade de identificar requisitos relevantes.  
-b) A tendência dos requisitos a mudarem ao longo do ciclo de vida do projeto.  
-c) A estabilidade dos requisitos durante todo o projeto.  
-d) A irrelevância dos requisitos para o desenvolvimento.
+Qual das seguintes afirmações sobre as ferramentas CASE é FALSA?
 
-### Questão 9
-**Qual dos seguintes fatores pode contribuir para a volatilidade de requisitos?**
-a) Definição clara e estável dos requisitos.  
-b) Mudanças nas necessidades dos stakeholders ou no ambiente de negócios.  
-c) Adoção de práticas de gerenciamento eficazes.  
-d) Estabilidade na equipe de desenvolvimento.
+a) As ferramentas CASE podem ser utilizadas em todas as fases do ciclo de vida de desenvolvimento de software.
+b) As ferramentas CASE garantem a completa ausência de erros no software desenvolvido.
+c) As ferramentas CASE podem auxiliar na geração de documentação automática.
+d) As ferramentas CASE podem facilitar a reutilização de componentes de software.
 
-### Questão 10
-**Qual é uma das principais consequências da volatilidade de requisitos?**
-a) Redução da complexidade do sistema.  
-b) Aumento dos custos e atrasos no projeto.  
-c) Melhoria na satisfação do cliente.  
-d) Estabilização da equipe de desenvolvimento.
+Questão 4:
 
-### Questão 11
-**Para gerenciar a volatilidade de requisitos, qual estratégia é recomendada?**
-a) Ignorar as mudanças e focar na documentação existente.  
-b) Implementar práticas ágeis que permitam adaptações rápidas aos requisitos.  
-c) Estabelecer uma lista fixa de requisitos que não podem ser alterados.  
-d) Aumentar o número de reuniões para discutir requisitos sem documentação.
+Qual é o principal objetivo da classificação das ferramentas CASE por fase do ciclo de vida?
 
-### Questão 12
-**O que caracteriza os requisitos mutáveis?**
-a) Eles surgem durante a implementação do sistema.  
-b) Eles se modificam devido a mudanças no ambiente de operação do sistema.  
-c) Eles são baseados em pressupostos sobre o uso do sistema.  
-d) Eles dependem de equipamentos ou processos externos.
+a) Facilitar a escolha da ferramenta mais adequada para cada etapa do desenvolvimento.
+b) Padronizar os processos de desenvolvimento de software.
+c) Aumentar a complexidade das ferramentas CASE.
+d) Diminuir a necessidade de treinamento dos usuários.
 
-### Questão 13
-**Qual é a principal característica dos requisitos emergentes?**
-a) Eles são sempre definidos antes do início do projeto.  
-b) Eles surgem durante a especificação do sistema.  
-c) Eles podem ser identificados apenas após a implementação do sistema.  
-d) Eles são requisitos fixos que não mudam ao longo do tempo.
+Questão 5:
 
-### Questão 14
-**Os requisitos de compatibilidade estão relacionados a:**
-a) Mudanças nos usuários que utilizam o sistema.  
-b) Adaptações necessárias devido a alterações em equipamentos ou processos externos.  
-c) Pressupostos errôneos sobre como o sistema será usado.  
-d) Sugestões de melhorias por parte de desenvolvedores e analistas.
+Qual das seguintes ferramentas CASE é mais adequada para a criação de diagramas de fluxos e processos?
 
-### Questão 15
-**Qual é o principal objetivo do armazenamento de requisitos?**
-a) Garantir que todos os requisitos sejam implementados de acordo com o cronograma.  
-b) Facilitar a organização, rastreabilidade e acesso a requisitos ao longo do ciclo de vida do projeto.  
-c) Aumentar a quantidade de requisitos documentados.  
-d) Permitir a eliminação de requisitos redundantes.
+a) Enterprise Architect
+b) Microsoft Visio
+c) Rational Rose
+d) Todas as alternativas são igualmente adequadas.
 
-### Questão 16
-**Qual das seguintes práticas é comum no armazenamento de requisitos?**
-a) Armazenar requisitos apenas em documentos impressos.  
-b) Utilizar ferramentas de gerenciamento de requisitos para centralizar as informações.  
-c) Ignorar versões anteriores de requisitos.  
-d) Armazenar requisitos em planilhas sem controle de versão.
+Questão 6:
 
-### Questão 17
-**O que deve ser considerado ao armazenar requisitos em uma ferramenta de gerenciamento?**
-a) Apenas a facilidade de uso da ferramenta.  
-b) A integração com outras ferramentas e a capacidade de rastreabilidade.  
-c) O custo da ferramenta, independentemente de sua funcionalidade.  
-d) A quantidade de requisitos que a ferramenta pode armazenar.
+Qual das seguintes opções NÃO é um tipo de diagrama que pode ser criado utilizando ferramentas CASE?
 
-### Questão 18
-**Como a rastreabilidade está relacionada ao armazenamento de requisitos?**
-a) Rastreabilidade não é relevante no armazenamento de requisitos.  
-b) Armazenar requisitos de forma organizada ajuda a rastrear a origem e a evolução dos mesmos.  
-c) Rastreabilidade é uma prática que deve ser ignorada.  
-d) O armazenamento de requisitos deve ser feito apenas no final do projeto.
+a) Diagrama de casos de uso
+b) Diagrama de classes
+c) Diagrama de sequência
+d) Diagrama de Gantt
 
-### Questão 19
-**Qual é uma desvantagem de um armazenamento inadequado de requisitos?**
-a) Facilita a comunicação entre a equipe de desenvolvimento.  
-b) Pode levar a mal-entendidos e à implementação de requisitos errados.  
-c) Permite fácil acesso às informações para todos os membros da equipe.  
-d) Melhora a eficiência do gerenciamento de mudanças.
+Questão 7:
 
-### Questão 20
-**Qual é o principal objetivo do gerenciamento de mudanças de requisitos?**
-a) Implementar todas as mudanças solicitadas de forma imediata.  
-b) Controlar e avaliar as mudanças nos requisitos para minimizar o impacto no projeto.  
-c) Eliminar a necessidade de documentação dos requisitos.  
-d) Aumentar o número de requisitos no projeto.
+Qual o principal objetivo da geração de código automática a partir de modelos criados em ferramentas CASE?
 
-### Questão 21
-**Por que o gerenciamento de mudanças é considerado importante?**
-a) Ele garante que todas as mudanças sejam aceitas sem avaliação.  
-b) Ele ajuda a evitar retrabalho e insatisfação dos stakeholders.  
-c) Ele permite que os desenvolvedores ignorem os requisitos dos usuários.  
-d) Ele facilita a comunicação apenas entre a equipe técnica.
+a) Aumentar a complexidade do software.
+b) Reduzir a necessidade de testes de software.
+c) Aumentar a produtividade e a consistência do desenvolvimento.
+d) Tornar o código mais difícil de entender para outros desenvolvedores.
 
-### Questão 22
-**Qual é a primeira etapa no processo de gerenciamento de mudanças de requisitos?**
-a) Implementação da mudança.  
-b) Avaliação do impacto da mudança proposta.  
-c) Documentação da mudança.  
-d) Solicitação da mudança.
+Questão 8:
 
-### Questão 23
-**Durante a avaliação de impacto, qual aspecto NÃO deve ser considerado?**
-a) O custo da implementação da mudança.  
-b) O tempo necessário para implementar a mudança.  
-c) A opinião dos desenvolvedores sobre a mudança.  
-d) O impacto nos requisitos existentes e no cronograma do projeto.
+Qual das seguintes ferramentas CASE é mais conhecida por sua integração com a plataforma .NET da Microsoft?
 
-### Questão 24
-**Após a aprovação de uma mudança de requisito, qual é a próxima etapa adequada?**
-a) Ignorar a documentação e seguir diretamente para a implementação.  
-b) Atualizar toda a documentação de requisitos e informar a equipe sobre as mudanças.  
-c) Esperar que os usuários notem a mudança e solicitem atualizações.  
-d) Desconsiderar requisitos antigos.
+a) Enterprise Architect
+b) Rational Rose
+c) Visual Studio
+d) StarUML
 
-### Questão 25
-**Qual é um dos maiores desafios do gerenciamento de mudanças de requisitos?**
-a) Garantir que todos os requisitos sejam estáveis desde o início do projeto.  
-b) Lidar com a resistência de stakeholders a mudanças solicitadas.  
-c) Criar documentação excessiva para cada mudança.  
-d) Não realizar qualquer mudança após a fase inicial do projeto.
+Questão 9:
+
+Qual a principal diferença entre uma ferramenta CASE integrada e uma não integrada?
+
+a) As ferramentas integradas são mais caras que as não integradas.
+b) As ferramentas integradas oferecem um conjunto mais completo de funcionalidades, cobrindo todo o ciclo de vida do desenvolvimento.
+c) As ferramentas integradas são mais difíceis de aprender a utilizar.
+d) As ferramentas integradas são mais adequadas para projetos de pequeno porte.
+
+Questão 10:
+
+Qual das seguintes afirmações sobre a utilização de ferramentas CASE em projetos ágeis é VERDADEIRA?
+
+a) As ferramentas CASE são incompatíveis com as metodologias ágeis.
+b) As ferramentas CASE podem auxiliar na visualização e comunicação dos requisitos em projetos ágeis.
+c) As ferramentas CASE são utilizadas apenas em projetos de grande porte.
+d) As ferramentas CASE aumentam a burocracia em projetos ágeis.
+
+Questão 11:
+Qual a principal diferença entre ferramentas de análise estática e dinâmica?
+
+a) As ferramentas de análise estática analisam o código fonte sem executá-lo, enquanto as dinâmicas analisam o software durante a execução.
+b) As ferramentas de análise estática focam em erros de lógica, enquanto as dinâmicas focam em erros de sintaxe.
+c) As ferramentas de análise estática são mais utilizadas em fases iniciais do desenvolvimento, enquanto as dinâmicas são utilizadas em fases finais.
+d) As ferramentas de análise estática são mais complexas e caras que as dinâmicas.
+
+Questão 12:
+Qual o papel das ferramentas de prototipação no desenvolvimento de software?
+
+a) Gerar o código fonte final do software.
+b) Criar modelos visuais para auxiliar na compreensão dos requisitos e design do sistema.
+c) Automatizar os testes de software.
+d) Gerenciar a configuração do software ao longo do seu ciclo de vida.
+
+Questão 13:
+Qual a principal vantagem de utilizar ferramentas CASE integradas?
+
+a) São mais baratas que as ferramentas não integradas.
+b) São mais fáceis de aprender e utilizar.
+c) Oferecem um conjunto completo de funcionalidades, cobrindo todo o ciclo de vida do desenvolvimento.
+d) São mais adequadas para projetos de pequeno porte.
+
+Questão 14:
+Qual o papel das ferramentas de gestão de configuração de software (SCM)?
+
+a) Automatizar a geração de código.
+b) Controlar as versões dos arquivos do projeto e rastrear as mudanças.
+c) Criar diagramas UML.
+d) Gerenciar os requisitos do sistema.
+
+Questão 15:
+Qual a importância das ferramentas de reengenharia?
+
+a) Automatizar a criação de novos sistemas.
+b) Melhorar a qualidade de sistemas legados, tornando-os mais modernos e manuteníveis.
+c) Gerenciar projetos de grande porte.
+d) Criar protótipos de interfaces.
 
 ## Gabarito:
 
-1) B;
+1) C;
 2) B;
 3) B;
 4) A;
 5) B;
-6) C;
-7) A;
-8) B;
+6) D;
+7) C;
+8) C;
 9) B;
 10) B;
-11) B;
+11) A;
 12) B;
 13) C;
 14) B;
 15) B;
-16) B;
-17) B;
-18) B;
-19) B;
-20) B;
-21) B;
-22) D;
-23) C;
-24) B;
-25) B;
-

@@ -1,223 +1,234 @@
 ## Questões para praticar
 
 ---
+1. O que é Experiência do Usuário (UX)?
 
-**1.** Qual das opções abaixo reflete um dos primeiros passos ao implementar um controle estratégico, segundo Chiavenato?  
-a) Comparar o desempenho com o de outras empresas do setor  
-b) Avaliar o desempenho atual em relação aos padrões estabelecidos  
-c) Estabelecer ações corretivas imediatamente  
-d) Considerar apenas os objetivos financeiros  
+A) A percepção do usuário sobre o desempenho técnico de um sistema.
+B) A soma das interações e sentimentos do usuário ao usar um produto ou serviço.
+C) O design estético de uma interface.
+D) A quantidade de funcionalidades que um produto possui.
 
----
+2. Qual é um dos principais objetivos do Design Visual na Experiência do Usuário?
 
-**2.** Segundo o autor Kardec, uma reavaliação estratégica pode resultar em uma decisão de **"conclusão"** quando:  
-a) A estratégia demonstra potencial de crescimento e expansão  
-b) A missão é revista para atender a um novo grupo de interesse  
-c) O caminho atual não é sustentável e não alcança os objetivos esperados  
-d) A empresa quer reforçar sua missão e visão entre os colaboradores  
+A) Aumentar o número de funcionalidades em um produto.
+B) Tornar a interface atraente e funcional, facilitando a interação do usuário.
+C) Aumentar o tempo de permanência do usuário em um site.
+D) Reduzir o custo de desenvolvimento de um produto.
 
+3. A Arquitetura da Informação se refere a:
 
----
+A) O processo de codificação de um site para garantir sua segurança.
+B) A estrutura e organização das informações dentro de um sistema para facilitar a navegação e a localização de conteúdo.
+C) O design gráfico de materiais impressos.
+D) O desenvolvimento de algoritmos para otimização de busca.
 
-**3.** A flexibilidade organizacional refere-se principalmente a:  
-a) Alterar a missão e visão da empresa de acordo com cada projeto  
-b) Realocar recursos e integrar processos de maneira seletiva  
-c) Adotar uma abordagem rígida para alcançar metas  
-d) Manter a mesma estrutura organizacional independentemente das condições do mercado  
+4. O que caracteriza o Design de Interação?
 
----
+A) A criação de gráficos e imagens para interfaces.
+B) O foco na forma como os usuários interagem com um produto, incluindo comportamento e feedback.
+C) A definição de processos de negócios para sistemas.
+D) A análise de dados estatísticos sobre usuários.
 
-**4.** Quando uma empresa utiliza **benchmarking competitivo**, ela está:  
-a) Definindo padrões internos com base nos seus recursos financeiros  
-b) Mensurando seu desempenho com base nos resultados de seus principais concorrentes  
-c) Focando exclusivamente na análise de mercado para estabelecer metas  
-d) Reduzindo seus processos a um padrão de desempenho mínimo  
+5. A Usabilidade é um aspecto da Experiência do Usuário que se refere a:
 
----
+A) A facilidade de uso e a eficiência de um sistema para os usuários.
+B) O apelo visual e estético de um produto.
+C) O tempo que os usuários passam em uma interface.
+D) A quantidade de informações disponíveis para o usuário.
 
-**5.** Ao implementar um controle estratégico, a **primeira etapa** é:  
-a) Avaliar o desempenho atual em comparação com os padrões de desempenho  
-b) Definir objetivos ou padrões de desempenho claros  
-c) Tomar medidas corretivas em caso de desvios  
-d) Analisar as condições econômicas do mercado  
+6. Pesquisa com usuários é fundamental para:
 
----
+A) Determinar o custo de desenvolvimento de um produto.
+B) Entender as necessidades, comportamentos e expectativas dos usuários para melhorar o design.
+C) Criar mais funcionalidades sem consultar os usuários.
+D) Avaliar apenas a aparência visual de um produto.
 
-**6.** O conceito de Balanced Scorecard foi desenvolvido originalmente por:  
-a) Henry Mintzberg e Peter Drucker  
-b) Michael Porter e Robert Kaplan  
-c) Robert Kaplan e David Norton  
-d) David Norton e Gary Hamel  
+7. A Estratégia de Conteúdo envolve:
 
----
-
-**7.** Qual das alternativas a seguir NÃO é uma das quatro perspectivas do Balanced Scorecard?  
-a) Perspectiva Financeira  
-b) Perspectiva de Processos Internos  
-c) Perspectiva de Inovação e Crescimento  
-d) Perspectiva de Responsabilidade Social  
-
----
-
-**8.** A **perspectiva financeira** do Balanced Scorecard foca em:  
-a) Melhorar a satisfação e fidelidade dos clientes  
-b) Otimizar os processos operacionais da empresa  
-c) Medir o retorno financeiro para acionistas e proprietários  
-d) Promover o crescimento da equipe por meio de treinamentos  
-
----
-
-**9.** Na perspectiva de **aprendizado e crescimento** do Balanced Scorecard, o foco está em:  
-a) Aprimorar a eficiência dos processos produtivos  
-b) Desenvolver o conhecimento e as habilidades dos funcionários  
-c) Aumentar o valor de mercado da empresa  
-d) Maximizar a satisfação dos clientes  
-
----
-
-**10.** O Balanced Scorecard foi criado para:  
-a) Substituir todas as métricas financeiras da empresa  
-b) Facilitar a criação de planejamentos de curto prazo  
-c) Ajudar a alinhar atividades operacionais com a visão e estratégia organizacional  
-d) Focar exclusivamente no desempenho financeiro de curto prazo  
+A) Apenas a criação de textos e imagens para um site.
+B) O planejamento e gerenciamento do conteúdo que será apresentado ao usuário, garantindo que seja relevante e acessível.
+C) A implementação de técnicas de SEO para aumentar o tráfego de um site.
+D) O desenvolvimento de aplicativos móveis.
 
 
-**11.** A inteligência competitiva pode ser definida como:  
-a) O processo de coleta e análise de informações para melhorar o desempenho financeiro da empresa  
-b) A coleta e análise de informações para entender e antecipar movimentos de concorrentes e tendências de mercado  
-c) Uma abordagem para treinar funcionários a se adaptarem melhor a mudanças organizacionais  
-d) Um sistema para gerenciar recursos humanos dentro da empresa  
+8. O que significa "Visibilidade" no contexto do design de interfaces?
 
----
+A) A capacidade de um elemento de interface ser percebido e compreendido pelos usuários.
+B) A quantidade de informações exibidas em uma tela.
+C) O uso de cores vibrantes para atrair a atenção do usuário.
+D) A velocidade com que a interface carrega e responde.
 
-**12.** A **escola de Porter**, uma das principais abordagens de inteligência competitiva, se baseia na análise de:  
-a) Macroambiente e desenvolvimento tecnológico  
-b) Análise SWOT e posicionamento estratégico da empresa  
-c) Forças competitivas e estratégias genéricas de posicionamento  
-d) Estudo do perfil dos líderes e da cultura organizacional  
+9. Affordance refere-se a:
 
----
+A) O design estético de uma interface que agrada visualmente.
+B) A propriedade de um objeto que sugere como ele pode ser utilizado, facilitando a interação do usuário.
+C) A quantidade de dados que uma interface pode processar.
+D) O número de cliques necessários para realizar uma tarefa.
 
-**13.** A inteligência competitiva é importante para as empresas, pois permite:  
-a) Implementar um sistema rígido de controle interno  
-b) Evitar a análise de mercado ao focar apenas em inovação de produtos  
-c) Antecipar oportunidades e ameaças e responder rapidamente às mudanças do mercado  
-d) Manter-se focado apenas no mercado regional sem considerar concorrentes globais  
+10. O que caracteriza um "Bom Modelo Conceitual" em design de interação?
 
+A) A complexidade do design que oferece muitas funcionalidades ao usuário.
+B) A clareza e a lógica que ajudam os usuários a entender como interagir com um sistema.
+C) O uso de jargões técnicos que demonstram sofisticação.
+D) A quantidade de recursos gráficos utilizados para atrair a atenção.
 
-**14.** A **escola francesa** de inteligência competitiva é caracterizada principalmente por:  
-a) Foco em práticas de coleta de dados no ambiente interno das empresas  
-b) Ênfase em uma abordagem colaborativa e institucional, envolvendo o governo e o setor privado  
-c) Concentração exclusiva nas áreas de finanças e inovação tecnológica  
-d) Uso predominante de fontes de inteligência artificial para análise de mercado  
+11. Um bom modelo conceitual deve:
 
----
+A) Ser exclusivo e único, sem comparação com outros sistemas.
+B) Ser flexível, permitindo mudanças frequentes na interface.
+C) Refletir as expectativas e experiências dos usuários, alinhando-se à sua forma de pensar.
+D) Ignorar as necessidades dos usuários em favor de um design mais inovador.
 
-**15.** Diferentemente da escola francesa, a **escola americana** de inteligência competitiva se concentra em:  
-a) Criar redes de colaboração com empresas de pequeno porte  
-b) Priorizar uma abordagem descentralizada com foco em dados e análise competitiva para a tomada de decisão empresarial  
-c) Desenvolver políticas públicas de incentivo à inteligência competitiva  
-d) Abordagens de inteligência competitiva orientadas exclusivamente ao setor de tecnologia  
+12. O que se entende por "Bons Mapeamentos" no contexto do design de interfaces?
 
----
+A) A correspondência clara entre os controles da interface e suas ações ou efeitos no mundo real.
+B) A utilização de uma paleta de cores diversificada para a interface.
+C) O número de funcionalidades disponíveis em uma interface.
+D) A habilidade da interface de ser acessível em diferentes dispositivos.
 
-**16.** Segundo **Peter Drucker**, as fontes de inovação incluem:  
-a) O ambiente social e a evolução da cultura organizacional  
-b) As mudanças no governo e na legislação  
-c) O mercado e as necessidades dos clientes, além de inovações tecnológicas  
-d) Apenas a pesquisa e desenvolvimento dentro da empresa  
+13. Um bom mapeamento em uma interface deve:
 
----
+A) Fazer com que o usuário tenha que memorizar as funções de cada botão.
+B) Garantir que a relação entre as ações do usuário e os resultados na interface sejam intuitivos e facilmente compreensíveis.
+C) Complexificar a navegação para oferecer uma experiência mais desafiadora.
+D) Ser inconsistente para que os usuários descubram novos caminhos.
 
-**17.** As **regras da inovação** propostas por Davila, Epstein e Shelton incluem a necessidade de:  
-a) Focar exclusivamente em inovações tecnológicas  
-b) Incentivar a resistência a mudanças para proteger a cultura organizacional  
-c) Medir e avaliar resultados continuamente para garantir o sucesso da inovação  
-d) Eliminar a colaboração entre departamentos para aumentar a eficiência  
+14. O que significa "Feedback" no contexto do design de interfaces?
 
----
+A) A coleta de opiniões dos usuários após a utilização de um sistema.
+B) A informação fornecida ao usuário sobre o resultado de suas ações ou interações com a interface.
+C) A utilização de gráficos e imagens para decorar a interface.
+D) O tempo de resposta de um sistema durante a navegação.
 
-**18.** A distinção entre **inovação radical** e **inovação incremental** proposta por Davila, Epstein e Shelton é que:  
-a) A inovação radical traz mudanças menores e requer menos investimento  
-b) A inovação incremental geralmente é mais arriscada do que a inovação radical  
-c) A inovação radical envolve mudanças disruptivas, enquanto a inovação incremental se refere a melhorias contínuas em produtos e processos existentes  
-d) Não há diferença significativa entre inovação radical e incremental  
+15. Um bom feedback em uma interface deve:
 
----
+A) Ser imediato e claro, permitindo que os usuários entendam as consequências de suas ações.
+B) Ser complexo e técnico para demonstrar a sofisticação do sistema.
+C) Ser opcional, já que os usuários devem saber como usar o sistema sem orientação.
+D) Focar apenas em mensagens de erro, ignorando confirmações de ações bem-sucedidas.
 
-**19.** Um dos **principais desafios da inovação estratégica** é:  
-a) A identificação de oportunidades em mercados saturados  
-b) A implementação de mudanças sem impactar a cultura organizacional  
-c) A resistência à inovação por parte dos stakeholders e colaboradores  
-d) A criação de um ambiente totalmente automatizado para produção  
+16. O que significa "Deixar o Usuário no Comando" no design de interfaces?
 
----
+A) Permitir que o sistema tome decisões em nome do usuário sem opções de escolha.
+B) Proporcionar controle e liberdade ao usuário, permitindo que ele faça escolhas e execute ações conforme sua vontade.
+C) Impor uma sequência rígida de passos que o usuário deve seguir.
+D) Oferecer uma interface que só pode ser usada por especialistas.
 
-**20.** Um dos principais **fatores de sucesso** para a implementação de inovações estratégicas é:  
-a) A centralização das decisões em um único departamento  
-b) O envolvimento e o comprometimento de todos os níveis da organização  
-c) A limitação do acesso à informação sobre novas tecnologias  
-d) A manutenção de processos tradicionais sem mudanças significativas  
+17. Ao projetar uma interface que "deixa o usuário no comando", deve-se:
 
----
+A) Priorizar a estética em detrimento da usabilidade.
+B) Minimizar a possibilidade de erros, permitindo desfazer ações e fornecer opções claras.
+C) Ocultar informações relevantes para simplificar a interface.
+D) Criar um ambiente altamente automatizado sem opções de personalização.
 
-**21.** De acordo com **Drucker**, a inovação pode ser entendida como:  
-a) Um processo exclusivo de pesquisa e desenvolvimento  
-b) Um esforço criativo e sistemático que pode ser aplicado em qualquer área da empresa  
-c) Uma atividade pontual que não requer planejamento estratégico  
-d) A introdução de novos produtos que não precisam atender às necessidades dos clientes  
+18. O que significa "Reduzir a Carga de Memória do Usuário" no design de interfaces?
 
----
+A) Facilitar a memorização de todos os comandos e funcionalidades do sistema.
+B) Minimizar a quantidade de informações que o usuário precisa lembrar ao interagir com a interface, usando dicas e informações visuais.
+C) Encorajar os usuários a usar mais senhas e códigos complexos.
+D) Focar na criação de menus complexos que exigem memorização.
 
-**22.** As **cinco fontes de inovação** propostas por Drucker incluem:  
-a) Mercado, conhecimento, tecnologia, política e economia  
-b) Necessidades dos consumidores, novas tecnologias, mudanças na indústria, demografia e mudanças sociais  
-c) Produtos da concorrência, práticas de gestão, inovações governamentais, tendências culturais e tecnologias emergentes  
-d) Somente inovações tecnológicas e melhorias de produtos  
+19. Para reduzir a carga de memória do usuário em uma interface, é importante:
 
----
+A) Usar textos longos e descritivos em vez de ícones.
+B) Prover atalhos e informações contextuais que ajudem os usuários a entender o que devem fazer sem precisar lembrar de tudo.
+C) Fazer com que os usuários acessem manualmente a ajuda sempre que necessário.
+D) Oferecer múltiplas opções em cada menu, mesmo que isso sobrecarregue o usuário.
 
-**23.** A **inovação incremental** é caracterizada por:  
-a) Grandes mudanças que desafiam o status quo do mercado  
-b) Melhorias contínuas que visam aumentar a eficiência e a eficácia de produtos e processos existentes  
-c) Investimentos significativos em pesquisa e desenvolvimento de novos produtos  
-d) Uma abordagem que ignora as tendências do mercado para se concentrar em melhorias internas  
+20. O que significa "Tornar a Interface Consistente" no design de interfaces?
 
----
+A) Usar diferentes estilos visuais em cada seção da interface para manter o interesse do usuário.
+B) Manter uniformidade nos elementos de design e na terminologia ao longo de toda a interface, para que os usuários possam prever como interagir com o sistema.
+C) Alterar constantemente a interface para evitar que os usuários se acostumem.
+D) Implementar múltiplas linguagens de design que confundam os usuários.
 
-**24.** Uma das **regras de inovação** de Davila, Epstein e Shelton enfatiza que:  
-a) A inovação deve ser um processo separado da estratégia organizacional  
-b) A avaliação de riscos não é necessária na fase inicial da inovação  
-c) O aprendizado com falhas e erros é fundamental para o desenvolvimento de inovações bem-sucedidas  
-d) Inovações devem ser implementadas rapidamente, sem testes prévios  
+21. Um benefício de manter a consistência em uma interface é:
+
+A) Aumentar o tempo que os usuários precisam para aprender a usar o sistema.
+B) Facilitar a familiaridade do usuário com a interface, tornando mais fácil a navegação e a execução de tarefas.
+C) Permitir que os usuários experimentem diferentes estilos e layouts a cada uso.
+D) Criar uma sensação de confusão para engajar os usuários de forma criativa.
+
+22. Qual é a primeira etapa no processo de análise de interfaces?
+
+A) Testar a interface com usuários reais.
+B) Definir os objetivos e requisitos do sistema.
+C) Criar protótipos de interface.
+D) Coletar feedback dos usuários sobre a interface atual.
+
+23. Durante a etapa de avaliação da interface, o que deve ser analisado?
+
+A) Apenas a estética visual da interface.
+B) A eficiência, eficácia e satisfação do usuário ao interagir com a interface.
+C) O número de cores utilizadas na interface.
+D) As tecnologias usadas para desenvolver a interface.
+
+24. O que envolve a etapa de prototipagem no processo de projeto de interface?
+
+A) Criar uma versão final do sistema para lançamento.
+B) Desenvolver representações visuais e funcionais da interface para testes.
+C) Fazer uma análise detalhada de custos do projeto.
+D) Recolher dados históricos sobre o uso de interfaces semelhantes.
+
+25. A fase de implementação no processo de projeto de interface refere-se a:
+
+A) Definir as cores e fontes da interface.
+B) Integrar a interface ao sistema final e garantir seu funcionamento.
+C) Coletar feedback dos usuários sobre o protótipo.
+D) Analisar as interações dos usuários com a interface.
+
+26. O que é um teste de usabilidade, e quando deve ser realizado?
+
+A) Um método de avaliação realizado antes do desenvolvimento da interface.
+B) Um tipo de teste focado em identificar bugs técnicos na interface.
+C) Uma avaliação da interface com usuários reais, geralmente realizada após a prototipagem.
+D) Um teste para medir a eficiência do código do sistema.
+
+27. Qual é um dos principais objetivos da análise de interfaces?
+
+A) Aumentar a complexidade do sistema.
+B) Garantir que a interface seja esteticamente agradável.
+C) Identificar problemas de usabilidade e melhorar a experiência do usuário.
+D) Criar documentação técnica extensa sobre o sistema.
+
+28. O que deve ser considerado na fase de feedback após o lançamento da interface?
+
+A) Ignorar as opiniões dos usuários para evitar mudanças desnecessárias.
+B) Coletar e analisar as opiniões dos usuários para futuras melhorias e ajustes.
+C) Alterar drasticamente a interface com base em uma única reclamação.
+D) Limitar o feedback apenas aos aspectos visuais da interface.
 
 ---
 ## Gabarito:
 
 1) B;
-2) C;
+2) B;
 3) B;
 4) B;
-5) B;
-6) C;
-7) D;
-8) C;
+5) A;
+6) B;
+7) B;
+8) A;
 9) B;
-10) C;
-11) B;
-12) C;
-13) C;
+10) B;
+11) C;
+12) A;
+13) B;
 14) B;
-15) B;
-16) C;
-17) C;
-18) C;
-19) C;
+15) A;
+16) B;
+17) B;
+18) B;
+19) B;
 20) B;
 21) B;
 22) B;
 23) B;
-24) C;
+24) B;
+25) B;
+26) C;
+27) C;
+28) B;
 
 
 

@@ -1,224 +1,86 @@
 ## Questões para praticar
 
----
+Questão 1:
+Qual a principal função da matriz de rastreabilidade de requisitos?
+a) Documentar as decisões de design tomadas durante o desenvolvimento.
+b) Estabelecer a relação entre os requisitos e outros artefatos do projeto, como casos de teste e código.
+c) Gerenciar as mudanças nos requisitos durante o ciclo de vida do projeto.
+d) Todas as alternativas estão corretas.
 
-**1.** Qual das opções abaixo reflete um dos primeiros passos ao implementar um controle estratégico, segundo Chiavenato?  
-a) Comparar o desempenho com o de outras empresas do setor  
-b) Avaliar o desempenho atual em relação aos padrões estabelecidos  
-c) Estabelecer ações corretivas imediatamente  
-d) Considerar apenas os objetivos financeiros  
+Questão 2:
+Qual tipo de rastreabilidade relaciona os requisitos com as partes interessadas do projeto?
+a) Rastreabilidade de fontes
+b) Rastreabilidade de dependências
+c) Rastreabilidade de interfaces
+d) Rastreabilidade de subsistemas
 
----
+Questão 3:
+O que é uma linha de rastreabilidade?
+a) Uma representação gráfica da matriz de rastreabilidade.
+b) Um conjunto de requisitos relacionados que atendem a um objetivo específico.
+c) Um documento que descreve as mudanças ocorridas nos requisitos.
+d) Um tipo de matriz de rastreabilidade que foca nas interfaces do sistema.
 
-**2.** Segundo o autor Kardec, uma reavaliação estratégica pode resultar em uma decisão de **"conclusão"** quando:  
-a) A estratégia demonstra potencial de crescimento e expansão  
-b) A missão é revista para atender a um novo grupo de interesse  
-c) O caminho atual não é sustentável e não alcança os objetivos esperados  
-d) A empresa quer reforçar sua missão e visão entre os colaboradores  
+Questão 4:
+Qual a importância da rastreabilidade de requisitos em um projeto de software?
+a) Permite identificar e gerenciar as mudanças nos requisitos de forma eficiente.
+b) Facilita a comunicação entre as equipes envolvidas no projeto.
+c) Aumenta a qualidade do produto final.
+d) Todas as alternativas estão corretas.
 
+Questão 5:
+Qual das seguintes afirmações sobre a matriz de rastreabilidade é FALSA?
+a) A matriz de rastreabilidade é um documento estático que não deve ser atualizado durante o projeto.
+b) A matriz de rastreabilidade pode ser utilizada para identificar lacunas e inconsistências nos requisitos.
+c) A matriz de rastreabilidade facilita a comunicação entre as diferentes equipes envolvidas no projeto.
+d) A matriz de rastreabilidade pode ser utilizada para avaliar o impacto de mudanças nos requisitos.
 
----
+Vamos continuar com mais 5 questões sobre rastreabilidade de requisitos de software, a partir da questão 6:
+Questão 6:
+Qual a principal diferença entre rastreabilidade vertical e horizontal?
+a) A rastreabilidade vertical relaciona requisitos de alto nível com requisitos de baixo nível, enquanto a horizontal relaciona requisitos do mesmo nível.
+b) A rastreabilidade vertical relaciona requisitos de diferentes fases do ciclo de vida, enquanto a horizontal relaciona requisitos da mesma fase.
+c) A rastreabilidade vertical relaciona requisitos funcionais e não funcionais, enquanto a horizontal relaciona apenas requisitos funcionais.
+d) Não há diferença entre rastreabilidade vertical e horizontal.
 
-**3.** A flexibilidade organizacional refere-se principalmente a:  
-a) Alterar a missão e visão da empresa de acordo com cada projeto  
-b) Realocar recursos e integrar processos de maneira seletiva  
-c) Adotar uma abordagem rígida para alcançar metas  
-d) Manter a mesma estrutura organizacional independentemente das condições do mercado  
+Questão 7:
+Qual a importância da rastreabilidade de requisitos para a gestão de mudanças em um projeto de software?
+a) Permite identificar o impacto de uma mudança em um requisito nos outros requisitos e artefatos do projeto.
+b) Facilita a comunicação das mudanças para as partes interessadas.
+c) Aumenta a qualidade do produto final.
+d) Todas as alternativas estão corretas.
 
----
+Questão 8:
+Qual ferramenta pode ser utilizada para automatizar a criação e manutenção da matriz de rastreabilidade?
+a) Ferramentas de gestão de configuração
+b) Ferramentas de modelagem UML
+c) Ferramentas de gerenciamento de requisitos
+d) Todas as alternativas podem ser utilizadas
 
-**4.** Quando uma empresa utiliza **benchmarking competitivo**, ela está:  
-a) Definindo padrões internos com base nos seus recursos financeiros  
-b) Mensurando seu desempenho com base nos resultados de seus principais concorrentes  
-c) Focando exclusivamente na análise de mercado para estabelecer metas  
-d) Reduzindo seus processos a um padrão de desempenho mínimo  
+Questão 9:
+Qual o principal desafio na implementação da rastreabilidade de requisitos em um projeto de software?
+a) A alta complexidade da matriz de rastreabilidade.
+b) A resistência das equipes de desenvolvimento em utilizar a ferramenta.
+c) A falta de ferramentas adequadas para automatizar o processo.
+d) Todas as alternativas podem ser desafios.
 
----
-
-**5.** Ao implementar um controle estratégico, a **primeira etapa** é:  
-a) Avaliar o desempenho atual em comparação com os padrões de desempenho  
-b) Definir objetivos ou padrões de desempenho claros  
-c) Tomar medidas corretivas em caso de desvios  
-d) Analisar as condições econômicas do mercado  
-
----
-
-**6.** O conceito de Balanced Scorecard foi desenvolvido originalmente por:  
-a) Henry Mintzberg e Peter Drucker  
-b) Michael Porter e Robert Kaplan  
-c) Robert Kaplan e David Norton  
-d) David Norton e Gary Hamel  
-
----
-
-**7.** Qual das alternativas a seguir NÃO é uma das quatro perspectivas do Balanced Scorecard?  
-a) Perspectiva Financeira  
-b) Perspectiva de Processos Internos  
-c) Perspectiva de Inovação e Crescimento  
-d) Perspectiva de Responsabilidade Social  
-
----
-
-**8.** A **perspectiva financeira** do Balanced Scorecard foca em:  
-a) Melhorar a satisfação e fidelidade dos clientes  
-b) Otimizar os processos operacionais da empresa  
-c) Medir o retorno financeiro para acionistas e proprietários  
-d) Promover o crescimento da equipe por meio de treinamentos  
-
----
-
-**9.** Na perspectiva de **aprendizado e crescimento** do Balanced Scorecard, o foco está em:  
-a) Aprimorar a eficiência dos processos produtivos  
-b) Desenvolver o conhecimento e as habilidades dos funcionários  
-c) Aumentar o valor de mercado da empresa  
-d) Maximizar a satisfação dos clientes  
-
----
-
-**10.** O Balanced Scorecard foi criado para:  
-a) Substituir todas as métricas financeiras da empresa  
-b) Facilitar a criação de planejamentos de curto prazo  
-c) Ajudar a alinhar atividades operacionais com a visão e estratégia organizacional  
-d) Focar exclusivamente no desempenho financeiro de curto prazo  
+Questão 10:
+Por que a rastreabilidade de requisitos é importante para a conformidade com normas e padrões de qualidade?
+a) Permite demonstrar que os requisitos foram atendidos e que o software foi desenvolvido de acordo com as normas.
+b) Facilita a auditoria do processo de desenvolvimento.
+c) Aumenta a confiança dos clientes no produto.
+d) Todas as alternativas estão corretas.
 
 
-**11.** A inteligência competitiva pode ser definida como:  
-a) O processo de coleta e análise de informações para melhorar o desempenho financeiro da empresa  
-b) A coleta e análise de informações para entender e antecipar movimentos de concorrentes e tendências de mercado  
-c) Uma abordagem para treinar funcionários a se adaptarem melhor a mudanças organizacionais  
-d) Um sistema para gerenciar recursos humanos dentro da empresa  
-
----
-
-**12.** A **escola de Porter**, uma das principais abordagens de inteligência competitiva, se baseia na análise de:  
-a) Macroambiente e desenvolvimento tecnológico  
-b) Análise SWOT e posicionamento estratégico da empresa  
-c) Forças competitivas e estratégias genéricas de posicionamento  
-d) Estudo do perfil dos líderes e da cultura organizacional  
-
----
-
-**13.** A inteligência competitiva é importante para as empresas, pois permite:  
-a) Implementar um sistema rígido de controle interno  
-b) Evitar a análise de mercado ao focar apenas em inovação de produtos  
-c) Antecipar oportunidades e ameaças e responder rapidamente às mudanças do mercado  
-d) Manter-se focado apenas no mercado regional sem considerar concorrentes globais  
-
-
-**14.** A **escola francesa** de inteligência competitiva é caracterizada principalmente por:  
-a) Foco em práticas de coleta de dados no ambiente interno das empresas  
-b) Ênfase em uma abordagem colaborativa e institucional, envolvendo o governo e o setor privado  
-c) Concentração exclusiva nas áreas de finanças e inovação tecnológica  
-d) Uso predominante de fontes de inteligência artificial para análise de mercado  
-
----
-
-**15.** Diferentemente da escola francesa, a **escola americana** de inteligência competitiva se concentra em:  
-a) Criar redes de colaboração com empresas de pequeno porte  
-b) Priorizar uma abordagem descentralizada com foco em dados e análise competitiva para a tomada de decisão empresarial  
-c) Desenvolver políticas públicas de incentivo à inteligência competitiva  
-d) Abordagens de inteligência competitiva orientadas exclusivamente ao setor de tecnologia  
-
----
-
-**16.** Segundo **Peter Drucker**, as fontes de inovação incluem:  
-a) O ambiente social e a evolução da cultura organizacional  
-b) As mudanças no governo e na legislação  
-c) O mercado e as necessidades dos clientes, além de inovações tecnológicas  
-d) Apenas a pesquisa e desenvolvimento dentro da empresa  
-
----
-
-**17.** As **regras da inovação** propostas por Davila, Epstein e Shelton incluem a necessidade de:  
-a) Focar exclusivamente em inovações tecnológicas  
-b) Incentivar a resistência a mudanças para proteger a cultura organizacional  
-c) Medir e avaliar resultados continuamente para garantir o sucesso da inovação  
-d) Eliminar a colaboração entre departamentos para aumentar a eficiência  
-
----
-
-**18.** A distinção entre **inovação radical** e **inovação incremental** proposta por Davila, Epstein e Shelton é que:  
-a) A inovação radical traz mudanças menores e requer menos investimento  
-b) A inovação incremental geralmente é mais arriscada do que a inovação radical  
-c) A inovação radical envolve mudanças disruptivas, enquanto a inovação incremental se refere a melhorias contínuas em produtos e processos existentes  
-d) Não há diferença significativa entre inovação radical e incremental  
-
----
-
-**19.** Um dos **principais desafios da inovação estratégica** é:  
-a) A identificação de oportunidades em mercados saturados  
-b) A implementação de mudanças sem impactar a cultura organizacional  
-c) A resistência à inovação por parte dos stakeholders e colaboradores  
-d) A criação de um ambiente totalmente automatizado para produção  
-
----
-
-**20.** Um dos principais **fatores de sucesso** para a implementação de inovações estratégicas é:  
-a) A centralização das decisões em um único departamento  
-b) O envolvimento e o comprometimento de todos os níveis da organização  
-c) A limitação do acesso à informação sobre novas tecnologias  
-d) A manutenção de processos tradicionais sem mudanças significativas  
-
----
-
-**21.** De acordo com **Drucker**, a inovação pode ser entendida como:  
-a) Um processo exclusivo de pesquisa e desenvolvimento  
-b) Um esforço criativo e sistemático que pode ser aplicado em qualquer área da empresa  
-c) Uma atividade pontual que não requer planejamento estratégico  
-d) A introdução de novos produtos que não precisam atender às necessidades dos clientes  
-
----
-
-**22.** As **cinco fontes de inovação** propostas por Drucker incluem:  
-a) Mercado, conhecimento, tecnologia, política e economia  
-b) Necessidades dos consumidores, novas tecnologias, mudanças na indústria, demografia e mudanças sociais  
-c) Produtos da concorrência, práticas de gestão, inovações governamentais, tendências culturais e tecnologias emergentes  
-d) Somente inovações tecnológicas e melhorias de produtos  
-
----
-
-**23.** A **inovação incremental** é caracterizada por:  
-a) Grandes mudanças que desafiam o status quo do mercado  
-b) Melhorias contínuas que visam aumentar a eficiência e a eficácia de produtos e processos existentes  
-c) Investimentos significativos em pesquisa e desenvolvimento de novos produtos  
-d) Uma abordagem que ignora as tendências do mercado para se concentrar em melhorias internas  
-
----
-
-**24.** Uma das **regras de inovação** de Davila, Epstein e Shelton enfatiza que:  
-a) A inovação deve ser um processo separado da estratégia organizacional  
-b) A avaliação de riscos não é necessária na fase inicial da inovação  
-c) O aprendizado com falhas e erros é fundamental para o desenvolvimento de inovações bem-sucedidas  
-d) Inovações devem ser implementadas rapidamente, sem testes prévios  
-
----
 ## Gabarito:
 
 1) B;
-2) C;
+2) A;
 3) B;
-4) B;
-5) B;
-6) C;
+4) D;
+5) A;
+6) A;
 7) D;
-8) C;
-9) B;
-10) C;
-11) B;
-12) C;
-13) C;
-14) B;
-15) B;
-16) C;
-17) C;
-18) C;
-19) C;
-20) B;
-21) B;
-22) B;
-23) B;
-24) C;
-
-
-
-
+8) D;
+9) D;
+10) D;

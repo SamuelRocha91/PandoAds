@@ -4,4 +4,4 @@ A aula sobre Atividades e processos de desenvolvimento software pode ser observa
 
 ## Mapa mental
 
-![Mapa mental da aula](../../../../../images/pe4_1.png)
+![Mapa mental da aula](../../../../../images/ES4_1.png)

@@ -1,223 +1,149 @@
 ## Questões para praticar
 
 ---
+1. Qual das seguintes opções descreve melhor o papel do gerente de projetos em um projeto de desenvolvimento de software?
 
-**1.** Qual das opções abaixo reflete um dos primeiros passos ao implementar um controle estratégico, segundo Chiavenato?  
-a) Comparar o desempenho com o de outras empresas do setor  
-b) Avaliar o desempenho atual em relação aos padrões estabelecidos  
-c) Estabelecer ações corretivas imediatamente  
-d) Considerar apenas os objetivos financeiros  
+A) Gerenciar apenas os prazos de entrega sem se preocupar com a qualidade do software
+B) Planejar, monitorar e controlar todas as etapas do projeto para garantir que os objetivos sejam alcançados
+C) Delegar todas as responsabilidades aos membros da equipe e se concentrar exclusivamente no orçamento
+D) Definir a arquitetura do software e realizar as implementações mais complexas
 
----
+2. Em qual fase do gerenciamento de projetos o gerente deve garantir que os recursos necessários estão alocados e disponíveis para a equipe?
 
-**2.** Segundo o autor Kardec, uma reavaliação estratégica pode resultar em uma decisão de **"conclusão"** quando:  
-a) A estratégia demonstra potencial de crescimento e expansão  
-b) A missão é revista para atender a um novo grupo de interesse  
-c) O caminho atual não é sustentável e não alcança os objetivos esperados  
-d) A empresa quer reforçar sua missão e visão entre os colaboradores  
+A) Iniciação
+B) Planejamento
+C) Execução
+D) Encerramento
+
+3. Qual das alternativas a seguir NÃO faz parte das responsabilidades principais do gerenciamento de projetos?
+
+A) Controlar o orçamento e custos do projeto
+B) Garantir a execução de todos os testes unitários do software
+C) Monitorar os prazos e a qualidade das entregas
+D) Analisar e gerenciar os riscos associados ao projeto
+
+4. O que é mais importante para o gerente de projetos ao realizar o monitoramento de um projeto?
+
+A) Estabelecer uma relação próxima com cada cliente individualmente
+B) Controlar as horas trabalhadas por cada membro da equipe
+C) Identificar desvios em relação ao plano e agir para corrigi-los
+D) Garantir que todos os membros da equipe sigam estritamente a sua metodologia de trabalho
+
+5. Em uma equipe ágil, o papel do gerente de projetos é geralmente adaptado para se alinhar com a metodologia. Qual das seguintes funções seria mais comum para ele em uma abordagem ágil?
+
+A) Controlar de forma rígida o escopo e as tarefas dos desenvolvedores
+B) Servir como Scrum Master, facilitando o trabalho da equipe e removendo impedimentos
+C) Realizar revisões de código e definir os padrões técnicos
+D) Delegar toda a comunicação com o cliente exclusivamente ao Product Owner
+
+6. Qual das seguintes opções descreve melhor o objetivo do levantamento de requisitos em um projeto de software?
+
+A) Definir a arquitetura do sistema
+B) Entender as necessidades e expectativas dos usuários e partes interessadas
+C) Planejar o cronograma do projeto
+D) Elaborar o orçamento necessário para o desenvolvimento
+
+7. Qual dos seguintes documentos é geralmente gerado durante o levantamento de requisitos?
+
+A) Documento de arquitetura
+B) Manual do usuário
+C) Documento de Especificação de Requisitos de Software (SRS)
+D) Plano de testes
+
+8. Qual das alternativas abaixo é um exemplo de um requisito funcional?
+
+A) O sistema deve armazenar dados de clientes em conformidade com a LGPD
+B) O sistema deve registrar o login do usuário e exibir a tela inicial após o login bem-sucedido
+C) O sistema deve responder em menos de dois segundos a cada solicitação do usuário
+D) O sistema deve ser compatível com navegadores modernos
+
+9. Restrições de projeto podem impactar o desenvolvimento de um software. Qual das seguintes opções representa uma restrição de projeto?
+
+A) O sistema deve ser acessível a pessoas com deficiência visual
+B) O sistema deve ter uma interface intuitiva
+C) O orçamento do projeto não pode ultrapassar $100.000
+D) O sistema deve permitir que os usuários façam buscas por categoria
+
+10. Qual dos seguintes é um exemplo de um requisito não funcional?
+
+A) O sistema deve permitir o cadastro de novos usuários
+B) O sistema deve ter um tempo de resposta inferior a dois segundos
+C) O sistema deve exibir o histórico de transações do usuário
+D) O sistema deve enviar notificações de email após ações específicas do usuário
+
+11. Qual é o principal objetivo da análise gramatical na descrição de um sistema projetado?
+
+A) Criar um ambiente de desenvolvimento mais complexo.
+B) Facilitar a descrição, permitindo uma compreensão clara e natural.
+C) Aumentar a quantidade de objetos no sistema.
+D) Ignorar os atributos dos objetos.
+
+12. Segundo Paula Filho (2003), qual é um dos objetivos principais do projeto de software?
+
+A) Definir um produto final sem considerar os requisitos.
+B) Estabelecer uma estrutura implementável que atenda aos requisitos especificados.
+C) Reduzir o número de classes no projeto.
+D) Eliminar a documentação de alterações.
+
+13. O que caracteriza a visão estática da UML, conforme descrito por Pfleeger (2004)?
+
+A) Mostra os estados e mudanças do sistema.
+B) É retratada pelos diagramas de classes e suas relações.
+C) Representa apenas os casos de uso do sistema.
+D) Foca na documentação das alterações realizadas.
+
+14. Qual é a função dos testes de unidade, segundo Pádua (2003)?
+
+A) Validar a documentação do sistema.
+B) Detectar 70% dos defeitos que seriam encontrados pelos usuários.
+C) Garantir a usabilidade do sistema.
+D) Reduzir o número de requisitos funcionais.
+
+15. O que se deve considerar ao definir as interfaces dos componentes do produto em um projeto de software?
+
+A) A estética do software.
+B) A usabilidade e o ambiente de implementação.
+C) O número de funcionalidades implementadas.
+D) A complexidade do código.
 
 
----
+16. Qual é uma das etapas finais do projeto de desenvolvimento de software, conforme descrito no texto?
 
-**3.** A flexibilidade organizacional refere-se principalmente a:  
-a) Alterar a missão e visão da empresa de acordo com cada projeto  
-b) Realocar recursos e integrar processos de maneira seletiva  
-c) Adotar uma abordagem rígida para alcançar metas  
-d) Manter a mesma estrutura organizacional independentemente das condições do mercado  
-
----
-
-**4.** Quando uma empresa utiliza **benchmarking competitivo**, ela está:  
-a) Definindo padrões internos com base nos seus recursos financeiros  
-b) Mensurando seu desempenho com base nos resultados de seus principais concorrentes  
-c) Focando exclusivamente na análise de mercado para estabelecer metas  
-d) Reduzindo seus processos a um padrão de desempenho mínimo  
-
----
-
-**5.** Ao implementar um controle estratégico, a **primeira etapa** é:  
-a) Avaliar o desempenho atual em comparação com os padrões de desempenho  
-b) Definir objetivos ou padrões de desempenho claros  
-c) Tomar medidas corretivas em caso de desvios  
-d) Analisar as condições econômicas do mercado  
-
----
-
-**6.** O conceito de Balanced Scorecard foi desenvolvido originalmente por:  
-a) Henry Mintzberg e Peter Drucker  
-b) Michael Porter e Robert Kaplan  
-c) Robert Kaplan e David Norton  
-d) David Norton e Gary Hamel  
-
----
-
-**7.** Qual das alternativas a seguir NÃO é uma das quatro perspectivas do Balanced Scorecard?  
-a) Perspectiva Financeira  
-b) Perspectiva de Processos Internos  
-c) Perspectiva de Inovação e Crescimento  
-d) Perspectiva de Responsabilidade Social  
-
----
-
-**8.** A **perspectiva financeira** do Balanced Scorecard foca em:  
-a) Melhorar a satisfação e fidelidade dos clientes  
-b) Otimizar os processos operacionais da empresa  
-c) Medir o retorno financeiro para acionistas e proprietários  
-d) Promover o crescimento da equipe por meio de treinamentos  
-
----
-
-**9.** Na perspectiva de **aprendizado e crescimento** do Balanced Scorecard, o foco está em:  
-a) Aprimorar a eficiência dos processos produtivos  
-b) Desenvolver o conhecimento e as habilidades dos funcionários  
-c) Aumentar o valor de mercado da empresa  
-d) Maximizar a satisfação dos clientes  
-
----
-
-**10.** O Balanced Scorecard foi criado para:  
-a) Substituir todas as métricas financeiras da empresa  
-b) Facilitar a criação de planejamentos de curto prazo  
-c) Ajudar a alinhar atividades operacionais com a visão e estratégia organizacional  
-d) Focar exclusivamente no desempenho financeiro de curto prazo  
+A) Redação do relatório final.
+B) Implantação do sistema, incluindo ambientação e treinamento.
+C) Revisão da documentação técnica.
+D) Análise dos requisitos de hardware.
 
 
-**11.** A inteligência competitiva pode ser definida como:  
-a) O processo de coleta e análise de informações para melhorar o desempenho financeiro da empresa  
-b) A coleta e análise de informações para entender e antecipar movimentos de concorrentes e tendências de mercado  
-c) Uma abordagem para treinar funcionários a se adaptarem melhor a mudanças organizacionais  
-d) Um sistema para gerenciar recursos humanos dentro da empresa  
+17. O que é essencial para um treinamento eficaz dos usuários do sistema, segundo Pfleeger (2004)?
 
----
+A) O treinamento deve ser realizado apenas no dia da entrega do sistema.
+B) Deve oferecer informações apenas sobre as funções mais complexas.
+C) Deve ser contínuo e incluir métodos para que os usuários encontrem informações quando necessário.
+D) Deve se concentrar apenas na documentação escrita.
 
-**12.** A **escola de Porter**, uma das principais abordagens de inteligência competitiva, se baseia na análise de:  
-a) Macroambiente e desenvolvimento tecnológico  
-b) Análise SWOT e posicionamento estratégico da empresa  
-c) Forças competitivas e estratégias genéricas de posicionamento  
-d) Estudo do perfil dos líderes e da cultura organizacional  
-
----
-
-**13.** A inteligência competitiva é importante para as empresas, pois permite:  
-a) Implementar um sistema rígido de controle interno  
-b) Evitar a análise de mercado ao focar apenas em inovação de produtos  
-c) Antecipar oportunidades e ameaças e responder rapidamente às mudanças do mercado  
-d) Manter-se focado apenas no mercado regional sem considerar concorrentes globais  
-
-
-**14.** A **escola francesa** de inteligência competitiva é caracterizada principalmente por:  
-a) Foco em práticas de coleta de dados no ambiente interno das empresas  
-b) Ênfase em uma abordagem colaborativa e institucional, envolvendo o governo e o setor privado  
-c) Concentração exclusiva nas áreas de finanças e inovação tecnológica  
-d) Uso predominante de fontes de inteligência artificial para análise de mercado  
-
----
-
-**15.** Diferentemente da escola francesa, a **escola americana** de inteligência competitiva se concentra em:  
-a) Criar redes de colaboração com empresas de pequeno porte  
-b) Priorizar uma abordagem descentralizada com foco em dados e análise competitiva para a tomada de decisão empresarial  
-c) Desenvolver políticas públicas de incentivo à inteligência competitiva  
-d) Abordagens de inteligência competitiva orientadas exclusivamente ao setor de tecnologia  
-
----
-
-**16.** Segundo **Peter Drucker**, as fontes de inovação incluem:  
-a) O ambiente social e a evolução da cultura organizacional  
-b) As mudanças no governo e na legislação  
-c) O mercado e as necessidades dos clientes, além de inovações tecnológicas  
-d) Apenas a pesquisa e desenvolvimento dentro da empresa  
-
----
-
-**17.** As **regras da inovação** propostas por Davila, Epstein e Shelton incluem a necessidade de:  
-a) Focar exclusivamente em inovações tecnológicas  
-b) Incentivar a resistência a mudanças para proteger a cultura organizacional  
-c) Medir e avaliar resultados continuamente para garantir o sucesso da inovação  
-d) Eliminar a colaboração entre departamentos para aumentar a eficiência  
-
----
-
-**18.** A distinção entre **inovação radical** e **inovação incremental** proposta por Davila, Epstein e Shelton é que:  
-a) A inovação radical traz mudanças menores e requer menos investimento  
-b) A inovação incremental geralmente é mais arriscada do que a inovação radical  
-c) A inovação radical envolve mudanças disruptivas, enquanto a inovação incremental se refere a melhorias contínuas em produtos e processos existentes  
-d) Não há diferença significativa entre inovação radical e incremental  
-
----
-
-**19.** Um dos **principais desafios da inovação estratégica** é:  
-a) A identificação de oportunidades em mercados saturados  
-b) A implementação de mudanças sem impactar a cultura organizacional  
-c) A resistência à inovação por parte dos stakeholders e colaboradores  
-d) A criação de um ambiente totalmente automatizado para produção  
-
----
-
-**20.** Um dos principais **fatores de sucesso** para a implementação de inovações estratégicas é:  
-a) A centralização das decisões em um único departamento  
-b) O envolvimento e o comprometimento de todos os níveis da organização  
-c) A limitação do acesso à informação sobre novas tecnologias  
-d) A manutenção de processos tradicionais sem mudanças significativas  
-
----
-
-**21.** De acordo com **Drucker**, a inovação pode ser entendida como:  
-a) Um processo exclusivo de pesquisa e desenvolvimento  
-b) Um esforço criativo e sistemático que pode ser aplicado em qualquer área da empresa  
-c) Uma atividade pontual que não requer planejamento estratégico  
-d) A introdução de novos produtos que não precisam atender às necessidades dos clientes  
-
----
-
-**22.** As **cinco fontes de inovação** propostas por Drucker incluem:  
-a) Mercado, conhecimento, tecnologia, política e economia  
-b) Necessidades dos consumidores, novas tecnologias, mudanças na indústria, demografia e mudanças sociais  
-c) Produtos da concorrência, práticas de gestão, inovações governamentais, tendências culturais e tecnologias emergentes  
-d) Somente inovações tecnológicas e melhorias de produtos  
-
----
-
-**23.** A **inovação incremental** é caracterizada por:  
-a) Grandes mudanças que desafiam o status quo do mercado  
-b) Melhorias contínuas que visam aumentar a eficiência e a eficácia de produtos e processos existentes  
-c) Investimentos significativos em pesquisa e desenvolvimento de novos produtos  
-d) Uma abordagem que ignora as tendências do mercado para se concentrar em melhorias internas  
-
----
-
-**24.** Uma das **regras de inovação** de Davila, Epstein e Shelton enfatiza que:  
-a) A inovação deve ser um processo separado da estratégia organizacional  
-b) A avaliação de riscos não é necessária na fase inicial da inovação  
-c) O aprendizado com falhas e erros é fundamental para o desenvolvimento de inovações bem-sucedidas  
-d) Inovações devem ser implementadas rapidamente, sem testes prévios  
 
 ---
 ## Gabarito:
 
 1) B;
-2) C;
+2) B;
 3) B;
-4) B;
+4) C;
 5) B;
-6) C;
-7) D;
-8) C;
-9) B;
-10) C;
+6) B;
+7) C;
+8) B;
+9) C;
+10) B;
 11) B;
-12) C;
-13) C;
+12) B;
+13) B;
 14) B;
 15) B;
-16) C;
+16) B;
 17) C;
-18) C;
-19) C;
-20) B;
-21) B;
-22) B;
-23) B;
-24) C;
+
 
 
 
