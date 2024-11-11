@@ -69,7 +69,7 @@ Este repositório contém apontamentos, resenhas de livros e trabalhos realizado
       - [Resumo da Aula](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_1/Engenharia_de_software_e_requisitos/Unidade_3/Aula_03-Gerenciamento_de_requsitos_de_software/README_resumo..md)
       - [Questionário](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_1/Engenharia_de_software_e_requisitos/Unidade_3/Aula_03-Gerenciamento_de_requsitos_de_software/README_questoes.md)
     - Atividade avaliativa: Fichamento de texto sobre engenharia de requisitos
-      - [Trabalho](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_1/Engenharia_de_software_e_requisitos/Unidade_3/README_trabalho..md)
+      - [Trabalho](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_1/Engenharia_de_software_e_requisitos/Unidade_3/README_trabalho.md)
   - Unidade 4
     - Atividades e processos desenvolvimento de software
       - [Resumo da Aula](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_1/Engenharia_de_software_e_requisitos/Unidade_4/Aula_01-Desenvolvimento_de_software/README_resumo..md)
@@ -97,7 +97,7 @@ Este repositório contém apontamentos, resenhas de livros e trabalhos realizado
       - [Resumo da Aula](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_1/Planejamento_estrategico/Unidade_3/Aula_01-Estrategias_e_escopo_corporativo/README_resumo..md)
       - [Questionário](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_1/Planejamento_estrategico/Unidade_3/Aula_01-Estrategias_e_escopo_corporativo/README_questoes.md)
     - Avaliação da Unidade 3 - Análise estratégica da Natura
-      - [Projeto](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_1/Planejamento_estrategico/Unidade_3/README_trabalho..md)
+      - [Projeto](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_1/Planejamento_estrategico/Unidade_3/README_trabalho.md)
   - Unidade 4
     - Mensuração da estratégia e inteligência competitiva
       - [Resumo da Aula](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_1/Planejamento_estrategico/Unidade_4/Aula_01-Mapeando_e_inteligencia_competitiva/README_resumo..md)
@@ -127,7 +127,7 @@ Este repositório contém apontamentos, resenhas de livros e trabalhos realizado
       - [Resumo da Aula](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_1/Gestao_de_ti_e_interacao_humano_computador/Unidade_3/Aula_02-Hipermidia_e_multimidia/README_resumo..md)
       - [Questionário](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_1/Gestao_de_ti_e_interacao_humano_computador/Unidade_3/Aula_02-Hipermidia_e_multimidia/README_questoes.md)
     - Atividade avaliativa: Sistemas multimídias
-      - [Trabalho](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_1/Gestao_de_ti_e_interacao_humano_computador/Unidade_3/README_trabalho..md)
+      - [Trabalho](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_1/Gestao_de_ti_e_interacao_humano_computador/Unidade_3/README_trabalho.md)
   - Unidade 4
     - Usabilidade de software
       - [Resumo da Aula](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_1/Gestao_de_ti_e_interacao_humano_computador/Unidade_4/Aula_01-Usabilidade_de_software/README_resumo..md)
