@@ -135,6 +135,18 @@ Este repositório contém apontamentos, resenhas de livros e trabalhos realizado
     - Design e projeto de interfaces
       - [Resumo da Aula](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_1/Gestao_de_ti_e_interacao_humano_computador/Unidade_4/Aula_02-Design_e_projeto_de_interface/README_resumo..md)
       - [Questionário](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_1/Gestao_de_ti_e_interacao_humano_computador/Unidade_4/Aula_02-Design_e_projeto_de_interface/README_questoes.md)
+  
+- **TIC em Trilhas**
+  - SCRUM
+    - Desenvolvimento Ágil
+      - [Resumo da Aula](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_1/TIC_em_trilhas/SCRUM/Módulo_1/README_resumo..md)
+      - [Questionário](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_1/TIC_em_trilhas/SCRUM/Módulo_1/README_questoes.md)
+    - Histórico e Organização da equipe no SCRUM
+      - [Resumo da Aula](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_1/TIC_em_trilhas/SCRUM/Módulo_2/README_resumo..md)
+      - [Questionário](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_1/TIC_em_trilhas/SCRUM/Módulo_2/README_questoes.md)
+    - Reuniões e Artefatos do Scrum
+      - [Resumo da Aula](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_1/TIC_em_trilhas/SCRUM/Módulo_3/README_resumo..md)
+      - [Questionário](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_1/TIC_em_trilhas/SCRUM/Módulo_3/README_questoes.md)
 </details>
 
 
