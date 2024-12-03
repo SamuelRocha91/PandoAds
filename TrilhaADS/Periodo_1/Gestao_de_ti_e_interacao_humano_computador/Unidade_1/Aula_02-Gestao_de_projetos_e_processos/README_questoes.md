@@ -2,8 +2,7 @@
 
 ---
 
-### Questão 1:
-O que é o COBIT?
+### Questão 1: O que é o COBIT?
 
 A) Um software de gestão de projetos para desenvolvimento de TI.  
 B) Um framework de governança e gerenciamento de TI desenvolvido pela ISACA.  
@@ -12,8 +11,7 @@ D) Um método ágil de desenvolvimento de software.
 
 ---
 
-### Questão 2:
-Qual é o principal objetivo do COBIT?
+### Questão 2: Qual é o principal objetivo do COBIT?
 
 A) Prover diretrizes para a implementação de sistemas de ERP.  
 B) Garantir que a TI esteja alinhada aos objetivos de negócios e crie valor.  
@@ -22,8 +20,7 @@ D) Estabelecer regras rígidas para a gestão de projetos em TI.
 
 ---
 
-### Questão 3:
-Qual das seguintes afirmativas é verdadeira sobre o COBIT?
+### Questão 3: Qual das seguintes afirmativas é verdadeira sobre o COBIT?
 
 A) O COBIT é focado exclusivamente na segurança da informação.  
 B) O COBIT promove uma abordagem integrada para a governança e gerenciamento de TI.  
@@ -32,8 +29,7 @@ D) O COBIT não considera a importância do alinhamento estratégico da TI com o
 
 --- 
 
-### Questão 4: Princípio 1 - Satisfação das Necessidades das Partes Interessadas
-Qual é o foco principal do primeiro princípio do COBIT?
+### Questão 4: Qual é o foco principal do primeiro princípio do COBIT?
 
 A) Gerar relatórios de conformidade para as partes interessadas.  
 B) Atender às necessidades e expectativas das partes interessadas por meio de uma abordagem integrada de governança.  
@@ -42,8 +38,7 @@ D) Reduzir os custos operacionais relacionados à TI.
 
 ---
 
-### Questão 5: Princípio 2 - Cobertura Abrangente
-O segundo princípio do COBIT enfatiza a necessidade de:
+### Questão 5: O segundo princípio do COBIT enfatiza a necessidade de:
 
 A) Implementar processos de TI apenas para a área de desenvolvimento.  
 B) Garantir que a governança e o gerenciamento de TI abranjam toda a organização.  

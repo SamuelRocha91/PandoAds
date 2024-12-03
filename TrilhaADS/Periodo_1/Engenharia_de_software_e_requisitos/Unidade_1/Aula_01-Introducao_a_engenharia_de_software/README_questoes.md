@@ -2,8 +2,7 @@
 
 ---
 
-### Questão 1: Origem da Engenharia de Software
-Qual foi um dos principais motivos que levou à criação formal do campo de engenharia de software nos anos 1960?
+### Questão 1: Qual foi um dos principais motivos que levou à criação formal do campo de engenharia de software nos anos 1960?
 
 A) O aumento da capacidade de hardware.  
 B) A necessidade de otimização de código para videogames.  
@@ -12,8 +11,7 @@ D) A introdução das metodologias ágeis no desenvolvimento de software.
 
 ---
 
-### Questão 2: Evolução dos Métodos de Requisitos
-O que marcou o início do uso formal de requisitos de software nas décadas de 1970 e 1980?
+### Questão 2: O que marcou o início do uso formal de requisitos de software nas décadas de 1970 e 1980?
 
 A) A crescente complexidade dos sistemas e a necessidade de definir claramente o que o software deveria fazer.  
 B) A introdução de linguagens de programação de alto nível.  
@@ -22,8 +20,7 @@ D) A popularização dos microprocessadores e sistemas embarcados.
 
 ---
 
-### Questão 3: Influência do Modelo em Cascata
-Por que o modelo em cascata foi importante no início da engenharia de software?
+### Questão 3: Por que o modelo em cascata foi importante no início da engenharia de software?
 
 A) Ele ofereceu uma abordagem iterativa para o desenvolvimento de software.  
 B) Foi o primeiro modelo formal a introduzir uma sequência linear de fases, como coleta de requisitos, design, implementação, teste e manutenção.  
@@ -32,8 +29,7 @@ D) Ele foi criado para suportar desenvolvimento de software baseado em inteligê
 
 ---
 
-### Questão 4: Definição de Engenharia de Software
-Qual é a melhor definição para o conceito de engenharia de software?
+### Questão 4: Qual é a melhor definição para o conceito de engenharia de software?
 
 A) O processo de escrever código sem padrões estabelecidos.  
 B) A aplicação de uma abordagem sistemática, disciplinada e quantificável ao desenvolvimento, operação e manutenção de software.  
@@ -42,8 +38,7 @@ D) A manutenção de sistemas de hardware e redes de computadores.
 
 ---
 
-### Questão 5: Engenharia de Software vs. Programação
-Qual é a principal diferença entre engenharia de software e simples programação?
+### Questão 5: Qual é a principal diferença entre engenharia de software e simples programação?
 
 A) A engenharia de software envolve a criação de hardware.  
 B) A programação foca apenas no código, enquanto a engenharia de software envolve todas as etapas do ciclo de vida de um sistema, desde a análise de requisitos até a manutenção.  
@@ -52,8 +47,7 @@ D) A programação é mais complexa e envolve mais planejamento do que a engenha
 
 ---
 
-### Questão 6: Ciclo de Vida do Software
-Qual fase do ciclo de vida do software, segundo a engenharia de software, envolve a coleta e definição dos requisitos do sistema?
+### Questão 6: Qual fase do ciclo de vida do software, segundo a engenharia de software, envolve a coleta e definição dos requisitos do sistema?
 
 A) Codificação.  
 B) Teste.  
@@ -62,8 +56,7 @@ D) Análise de Requisitos.
 
 ---
 
-### Questão 7: Fases do Ciclo de Vida do Software
-Qual das seguintes opções representa corretamente as fases tradicionais do ciclo de vida do software?
+### Questão 7: Qual das seguintes opções representa corretamente as fases tradicionais do ciclo de vida do software?
 
 A) Requisitos, Implementação, Manutenção.  
 B) Design, Teste, Implantação, Manutenção.  
@@ -72,8 +65,7 @@ D) Planejamento, Desenvolvimento, Documentação.
 
 ---
 
-### Questão 8: Modelos de Ciclo de Vida
-Qual modelo de ciclo de vida do software é conhecido por seguir uma abordagem linear e sequencial, onde uma fase só começa após a conclusão da anterior?
+### Questão 8: Qual modelo de ciclo de vida do software é conhecido por seguir uma abordagem linear e sequencial, onde uma fase só começa após a conclusão da anterior?
 
 A) Modelo Iterativo.  
 B) Modelo Ágil.  
@@ -82,8 +74,7 @@ D) Modelo Cascata (Waterfall).
 
 ---
 
-### Questão 9: Manutenção de Software
-O que envolve a fase de manutenção no ciclo de vida do software?
+### Questão 9: O que envolve a fase de manutenção no ciclo de vida do software?
 
 A) Correção de bugs e ajustes após a implantação do software.  
 B) Desenvolvimento de novas funcionalidades antes da entrega.  
@@ -92,8 +83,7 @@ D) Fase de teste de integração.
 
 ---
 
-### Questão 10: Princípio de Simplicidade
-De acordo com o princípio de simplicidade de Hooker, como o software deve ser desenvolvido?
+### Questão 10: De acordo com o princípio de simplicidade de Hooker, como o software deve ser desenvolvido?
 
 A) O software deve incluir o maior número possível de funcionalidades para ser completo.  
 B) O software deve ser projetado com o mínimo de complexidade, focando em soluções simples e eficientes.  
@@ -102,8 +92,7 @@ D) O software deve ser desenvolvido de forma a incluir todos os requisitos do cl
 
 ---
 
-### Questão 11: Princípio da Generalidade
-O que o princípio da generalidade de Hooker prega sobre o design de software?
+### Questão 11: O que o princípio da generalidade de Hooker prega sobre o design de software?
 
 A) O software deve ser projetado apenas para um propósito específico e não deve ser reutilizado.  
 B) O software deve ser o mais geral possível para que possa ser reutilizado em diferentes contextos.  
@@ -112,8 +101,7 @@ D) O software deve ser especializado para ser mais eficiente, independentemente 
 
 ---
 
-### Questão 12: Princípio da Consistência
-O que o princípio da consistência de Hooker sugere sobre a abordagem de design e implementação de software?
+### Questão 12: O que o princípio da consistência de Hooker sugere sobre a abordagem de design e implementação de software?
 
 A) O software deve ser desenvolvido com diferentes abordagens em cada módulo.  
 B) O design e a implementação do software devem seguir padrões consistentes para manter a uniformidade e previsibilidade.  
@@ -122,9 +110,7 @@ D) A consistência não é importante, desde que o software funcione corretament
 
 ---
 
-
-### Questão 13: Princípio da Modularidade
-De acordo com o princípio da modularidade de Hooker, como o software deve ser projetado?
+### Questão 13: Princípio da De acordo com o princípio da modularidade de Hooker, como o software deve ser projetado?
 
 A) O software deve ser desenvolvido como um único bloco de código para facilitar o controle.  
 B) O software deve ser dividido em módulos independentes que possam ser desenvolvidos e testados separadamente.  
@@ -133,8 +119,7 @@ D) O software deve ser desenvolvido com foco em uma única função para cada m�
 
 ---
 
-### Questão 14: Princípio da Completude
-O que o princípio da completude de Hooker sugere em relação à documentação e especificações de um projeto de software?
+### Questão 14: O que o princípio da completude de Hooker sugere em relação à documentação e especificações de um projeto de software?
 
 A) A documentação deve ser mínima para evitar perda de tempo.  
 B) A documentação e as especificações devem ser completas e detalhadas, abrangendo todos os aspectos importantes do software.  
@@ -143,8 +128,7 @@ D) A completude não é importante, desde que o software funcione corretamente.
 
 ---
 
-### Questão 15: Princípio da Abstração
-Como o princípio da abstração de Hooker deve ser aplicado no desenvolvimento de software?
+### Questão 15: Como o princípio da abstração de Hooker deve ser aplicado no desenvolvimento de software?
 
 A) Detalhes técnicos devem ser sempre mostrados ao usuário final.  
 B) O software deve esconder a complexidade técnica dos usuários, abstraindo os detalhes desnecessários.  
@@ -153,8 +137,7 @@ D) O software deve expor todos os detalhes técnicos para garantir a total compr
 
 ---
 
-### Questão 16: Engenharia de Requisitos
-Qual é o principal objetivo da área de conhecimento de engenharia de requisitos?
+### Questão 16: Qual é o principal objetivo da área de conhecimento de engenharia de requisitos?
 
 A) Definir a arquitetura do sistema.  
 B) Coletar, documentar e gerenciar as necessidades e expectativas dos usuários para o sistema de software.  
@@ -163,8 +146,7 @@ D) Monitorar o desempenho do software após a implantação.
 
 ---
 
-### Questão 17: Gerenciamento de Configuração de Software
-O que é o gerenciamento de configuração de software?
+### Questão 17: O que é o gerenciamento de configuração de software?
 
 A) Um processo que envolve o controle de versões, mudanças e integridade dos artefatos de software durante o ciclo de vida do projeto.  
 B) A área que lida com a criação de interfaces gráficas para o software.  
@@ -173,8 +155,7 @@ D) A área que lida com a documentação do software após o término do projeto
 
 ---
 
-### Questão 18: Garantia de Qualidade de Software
-Qual das alternativas a seguir descreve corretamente a garantia de qualidade de software?
+### Questão 18: Qual das alternativas a seguir descreve corretamente a garantia de qualidade de software?
 
 A) Um processo que envolve apenas a fase de teste do software.  
 B) A avaliação de um software para assegurar que ele atenda aos padrões e requisitos de qualidade estabelecidos, incluindo revisões, inspeções e testes durante todo o ciclo de vida do software.  
@@ -183,8 +164,7 @@ D) A criação de documentação para o software durante a fase de desenvolvimen
 
 ---
 
-### Questão 19: Projeto de Software
-Qual é o principal foco da área de projeto de software?
+### Questão 19: Qual é o principal foco da área de projeto de software?
 
 A) Definir os requisitos funcionais do software.  
 B) Criar a arquitetura e design do sistema, incluindo a estrutura de componentes e interfaces.  
@@ -193,8 +173,7 @@ D) Gerenciar mudanças e versões do software.
 
 ---
 
-### Questão 20: Desenvolvimento de Software
-O que a área de desenvolvimento de software abrange?
+### Questão 20: O que a área de desenvolvimento de software abrange?
 
 A) A codificação e implementação dos componentes do software conforme os requisitos e design definidos.  
 B) A coleta de requisitos dos usuários.  
@@ -203,8 +182,7 @@ D) A manutenção do software após a sua implantação.
 
 ---
 
-### Questão 21: Manutenção de Software
-O que envolve a manutenção de software?
+### Questão 21: O que envolve a manutenção de software?
 
 A) O desenvolvimento de novas funcionalidades após a entrega do software.  
 B) A correção de erros, melhorias de desempenho e adaptação do software a novas condições de operação.  
@@ -212,7 +190,6 @@ C) A documentação do software durante a fase de design.
 D) A criação de protótipos durante a fase inicial do projeto.
 
 ---
-
 
 ## Gabarito:
 
