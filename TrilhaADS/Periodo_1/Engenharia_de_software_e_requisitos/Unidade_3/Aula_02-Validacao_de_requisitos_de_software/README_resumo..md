@@ -4,4 +4,4 @@ A aula sobre Validação de requisitos de software pode ser observada sob os seg
 
 ## Mapa mental
 
-![Mapa mental da aula](../../../../../images/es3_2.png)
+![Mapa mental da aula](../../../../../images/engenharia_de_software/es3_2.png)

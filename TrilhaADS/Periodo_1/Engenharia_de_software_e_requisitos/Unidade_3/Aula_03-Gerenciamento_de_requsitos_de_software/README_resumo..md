@@ -4,4 +4,4 @@ A aula sobre Gerenciamento de requisitos de software pode ser observada sob os s
 
 ## Mapa mental
 
-![Mapa mental da aula](../../../../../images/ES3_3.png)
+![Mapa mental da aula](../../../../../images/engenharia_de_software/ES3_3.png)

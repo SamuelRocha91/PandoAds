@@ -4,4 +4,4 @@ A aula sobre Interação humano-computador pode ser observada sob os seguintes e
 
 ## Mapa mental
 
-![Mapa mental da aula](../../../../../images/ge3_1.png)
+![Mapa mental da aula](../../../../../images/gestao_de_ti/ge3_1.png)

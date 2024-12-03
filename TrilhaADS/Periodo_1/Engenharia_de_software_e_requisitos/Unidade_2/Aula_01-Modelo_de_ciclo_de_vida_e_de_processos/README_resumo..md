@@ -4,4 +4,4 @@ A aula sobre Ciclo de vida de software pode ser observada sob os seguintes enfoq
 
 ## Mapa mental
 
-![Mapa mental da aula](../../../../../images/engenharia2_1.png)
+![Mapa mental da aula](../../../../../images/engenharia_de_software/engenharia2_1.png)

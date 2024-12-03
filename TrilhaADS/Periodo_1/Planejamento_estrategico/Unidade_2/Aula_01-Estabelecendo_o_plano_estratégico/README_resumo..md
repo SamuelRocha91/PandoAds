@@ -4,4 +4,4 @@ A aula sobre planejamento estratégico pode ser observada sob os seguintes enfoq
 
 ## Mapa mental
 
-![Mapa mental da aula](../../../../../images/planejamentoEstrategico2_1.png)
+![Mapa mental da aula](../../../../../images/planejamento_estrategico/planejamentoEstrategico2_1.png)
