@@ -2,7 +2,7 @@
 
 ---
 
-### 1. O princípio da **confidencialidade** em segurança da informação garante que:
+### Questão 1: O princípio da **confidencialidade** em segurança da informação garante que:
 
 A) Os dados sejam acessíveis somente por pessoas autorizadas  
 B) As informações sejam modificadas apenas por usuários autorizados  
@@ -11,7 +11,7 @@ D) As ações dos usuários sejam sempre rastreáveis e auditáveis
 
 ---
 
-### 2. Qual das seguintes opções corresponde ao princípio da **integridade** em segurança da informação?
+### Questão 2: Qual das seguintes opções corresponde ao princípio da **integridade** em segurança da informação?
 
 A) Proteger os dados contra acesso não autorizado  
 B) Assegurar que as informações não sejam alteradas de forma indevida ou não autorizada  
@@ -20,7 +20,7 @@ D) Monitorar as atividades dos usuários em tempo real
 
 ---
 
-### 3. O princípio da **disponibilidade** em segurança da informação refere-se a:
+### Questão 3: O princípio da **disponibilidade** em segurança da informação refere-se a:
 
 A) Acessar os dados apenas com permissão explícita  
 B) Proteger a integridade dos dados contra corrupção  
@@ -29,8 +29,7 @@ D) Impedir a divulgação de informações confidenciais para partes não autori
 
 ---
 
-
-### 4. Uma **vulnerabilidade** em um sistema de informação pode ser definida como:
+### Questão 4: Uma **vulnerabilidade** em um sistema de informação pode ser definida como:
 
 A) Qualquer evento inesperado que possa causar danos a um sistema  
 B) Um defeito ou fraqueza no sistema que pode ser explorado por uma ameaça  
@@ -39,7 +38,7 @@ D) Uma tentativa deliberada de comprometer a segurança de um sistema
 
 ---
 
-### 5. Qual das alternativas abaixo é considerada uma **ameaça interna** aos sistemas de informação?
+### Questão 5: Qual das alternativas abaixo é considerada uma **ameaça interna** aos sistemas de informação?
 
 A) Hackers tentando acessar o sistema remotamente  
 B) Funcionários negligentes ou mal-intencionados  
@@ -48,7 +47,7 @@ D) Ataques de negação de serviço (DDoS)
 
 ---
 
-### 6. **Risco** em segurança da informação refere-se a:
+### Questão 6: **Risco** em segurança da informação refere-se a:
 
 A) O nível de impacto que uma falha no sistema terá na operação  
 B) O potencial de um evento ameaçador explorar uma vulnerabilidade  
@@ -57,7 +56,7 @@ D) A probabilidade de um sistema ser infectado por malware
 
 ---
 
-### 7. O que é considerado um **ataque de engenharia social**?
+### Questão 7: O que é considerado um **ataque de engenharia social**?
 
 A) O uso de técnicas para explorar vulnerabilidades no código do sistema  
 B) A utilização de métodos de persuasão para obter informações confidenciais de usuários  
@@ -66,7 +65,7 @@ D) A alteração de dados no banco de dados sem autorização
 
 ---
 
-### 8. Uma prática comum para reduzir a **vulnerabilidade** em sistemas de informação é:
+### Questão 8: Uma prática comum para reduzir a **vulnerabilidade** em sistemas de informação é:
 
 A) Usar criptografia para proteger os dados sensíveis  
 B) Atualizar regularmente os sistemas e softwares de segurança  
@@ -75,8 +74,7 @@ D) Todas as anteriores
 
 ---
 
-
-### 9. A governança de TI é fundamental para alinhar a estratégia de TI com os objetivos de negócios. Qual das alternativas a seguir descreve melhor esse alinhamento?
+### Questão 9: A governança de TI é fundamental para alinhar a estratégia de TI com os objetivos de negócios. Qual das alternativas a seguir descreve melhor esse alinhamento?
 
 A) Garantir que todos os projetos de TI sejam concluídos no prazo  
 B) Assegurar que os recursos de TI sejam utilizados de forma eficiente para apoiar a estratégia organizacional  
@@ -85,7 +83,7 @@ D) Manter a segurança da informação como a única prioridade
 
 ---
 
-### 10. Qual é o principal objetivo do **COBIT (Control Objectives for Information and Related Technologies)** na governança de TI?
+### Questão 10: Qual é o principal objetivo do **COBIT (Control Objectives for Information and Related Technologies)** na governança de TI?
 
 A) Prover uma estrutura para gerenciar a segurança da informação  
 B) Fornecer uma abordagem para a gestão de riscos em projetos de TI  
@@ -94,7 +92,7 @@ D) Estabelecer normas rígidas para a contratação de fornecedores de TI
 
 ---
 
-### 11. O que é considerado um **principio fundamental** da governança de TI?
+### Questão 11: O que é considerado um **princípio fundamental** da governança de TI?
 
 A) A TI deve ser vista como um custo a ser minimizado  
 B) A gestão de TI deve ser realizada por uma única pessoa  
@@ -103,7 +101,7 @@ D) A segurança da informação é responsabilidade apenas do departamento de TI
 
 ---
 
-### 12. Uma **estratégia de governança de TI** eficaz deve incluir a:
+### Questão 12: Uma **estratégia de governança de TI** eficaz deve incluir a:
 
 A) Exclusão da TI das decisões estratégicas da organização  
 B) Avaliação contínua do desempenho e da contribuição da TI para os objetivos de negócios  
@@ -112,7 +110,7 @@ D) Restrição de comunicação entre os departamentos de TI e de negócios
 
 ---
 
-### 13. A **gestão de riscos** na governança de TI é importante porque:
+### Questão 13: A **gestão de riscos** na governança de TI é importante porque:
 
 A) Ela ajuda a identificar e minimizar as ameaças potenciais que podem afetar os ativos de TI  
 B) Ela assegura que todos os projetos de TI sejam sempre bem-sucedidos  
@@ -120,7 +118,6 @@ C) Ela se concentra apenas na segurança da informação
 D) Ela não precisa ser integrada à estratégia de negócios
 
 ---
-
 
 ## Gabarito:
 

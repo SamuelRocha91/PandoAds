@@ -4,4 +4,4 @@ A aula sobre Rastreabilidade de requisitos de software pode ser observada sob os
 
 ## Mapa mental
 
-![Mapa mental da aula](../../../../../images/ESOF4_2.png)
+![Mapa mental da aula](../../../../../images/engenharia_de_software/ESOF4_2.png)

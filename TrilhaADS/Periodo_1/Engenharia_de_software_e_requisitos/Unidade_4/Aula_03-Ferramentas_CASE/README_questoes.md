@@ -1,134 +1,141 @@
 ## Questões para praticar
 
-Questão 1:
+---
 
-Qual das seguintes opções NÃO é uma vantagem da utilização de ferramentas CASE?
+### Questão 1: Qual das seguintes opções NÃO é uma vantagem da utilização de ferramentas CASE?
 
-a) Aumento da produtividade no desenvolvimento de software.
-b) Melhora da qualidade do software final.
-c) Aumento significativo dos custos de desenvolvimento.
-d) Facilitação da comunicação entre os membros da equipe.
+A) Aumento da produtividade no desenvolvimento de software.  
+B) Melhora da qualidade do software final.  
+C) Aumento significativo dos custos de desenvolvimento.  
+D) Facilitação da comunicação entre os membros da equipe.
 
-Questão 2:
+---
 
-Qual das seguintes ferramentas CASE é mais focada na modelagem UML e na geração de código?
+### Questão 2: Qual das seguintes ferramentas CASE é mais focada na modelagem UML e na geração de código?
 
-a) Microsoft Visio
-b) Enterprise Architect
-c) Microsoft Excel
-d) Notepad++
+A) Microsoft Visio  
+B) Enterprise Architect  
+C) Microsoft Excel  
+D) Notepad++
 
-Questão 3:
+---
 
-Qual das seguintes afirmações sobre as ferramentas CASE é FALSA?
+### Questão 3: Qual das seguintes afirmações sobre as ferramentas CASE é FALSA?
 
-a) As ferramentas CASE podem ser utilizadas em todas as fases do ciclo de vida de desenvolvimento de software.
-b) As ferramentas CASE garantem a completa ausência de erros no software desenvolvido.
-c) As ferramentas CASE podem auxiliar na geração de documentação automática.
-d) As ferramentas CASE podem facilitar a reutilização de componentes de software.
+A) As ferramentas CASE podem ser utilizadas em todas as fases do ciclo de vida de desenvolvimento de software.  
+B) As ferramentas CASE garantem a completa ausência de erros no software desenvolvido.  
+C) As ferramentas CASE podem auxiliar na geração de documentação automática.  
+D) As ferramentas CASE podem facilitar a reutilização de componentes de software.
 
-Questão 4:
+---
 
-Qual é o principal objetivo da classificação das ferramentas CASE por fase do ciclo de vida?
+### Questão 4: Qual é o principal objetivo da classificação das ferramentas CASE por fase do ciclo de vida?
 
-a) Facilitar a escolha da ferramenta mais adequada para cada etapa do desenvolvimento.
-b) Padronizar os processos de desenvolvimento de software.
-c) Aumentar a complexidade das ferramentas CASE.
-d) Diminuir a necessidade de treinamento dos usuários.
+A) Facilitar a escolha da ferramenta mais adequada para cada etapa do desenvolvimento.  
+B) Padronizar os processos de desenvolvimento de software.  
+C) Aumentar a complexidade das ferramentas CASE.  
+D) Diminuir a necessidade de treinamento dos usuários.
 
-Questão 5:
+---
 
-Qual das seguintes ferramentas CASE é mais adequada para a criação de diagramas de fluxos e processos?
+### Questão 5: Qual das seguintes ferramentas CASE é mais adequada para a criação de diagramas de fluxos e processos?
 
-a) Enterprise Architect
-b) Microsoft Visio
-c) Rational Rose
-d) Todas as alternativas são igualmente adequadas.
+A) Enterprise Architect  
+B) Microsoft Visio  
+C) Rational Rose  
+D) Todas as alternativas são igualmente adequadas.
 
-Questão 6:
+---
 
-Qual das seguintes opções NÃO é um tipo de diagrama que pode ser criado utilizando ferramentas CASE?
+### Questão 6: Qual das seguintes opções NÃO é um tipo de diagrama que pode ser criado utilizando ferramentas CASE?
 
-a) Diagrama de casos de uso
-b) Diagrama de classes
-c) Diagrama de sequência
-d) Diagrama de Gantt
+A) Diagrama de casos de uso  
+B) Diagrama de classes  
+C) Diagrama de sequência  
+D) Diagrama de Gantt
 
-Questão 7:
+---
 
-Qual o principal objetivo da geração de código automática a partir de modelos criados em ferramentas CASE?
+### Questão 7: Qual o principal objetivo da geração de código automática a partir de modelos criados em ferramentas CASE?
 
-a) Aumentar a complexidade do software.
-b) Reduzir a necessidade de testes de software.
-c) Aumentar a produtividade e a consistência do desenvolvimento.
-d) Tornar o código mais difícil de entender para outros desenvolvedores.
+A) Aumentar a complexidade do software.  
+B) Reduzir a necessidade de testes de software.  
+C) Aumentar a produtividade e a consistência do desenvolvimento.  
+D) Tornar o código mais difícil de entender para outros desenvolvedores.
 
-Questão 8:
+---
 
-Qual das seguintes ferramentas CASE é mais conhecida por sua integração com a plataforma .NET da Microsoft?
+### Questão 8: Qual das seguintes ferramentas CASE é mais conhecida por sua integração com a plataforma .NET da Microsoft?
 
-a) Enterprise Architect
-b) Rational Rose
-c) Visual Studio
-d) StarUML
+A) Enterprise Architect  
+B) Rational Rose  
+C) Visual Studio  
+D) StarUML
 
-Questão 9:
+---
 
-Qual a principal diferença entre uma ferramenta CASE integrada e uma não integrada?
+### Questão 9: Qual a principal diferença entre uma ferramenta CASE integrada e uma não integrada?
 
-a) As ferramentas integradas são mais caras que as não integradas.
-b) As ferramentas integradas oferecem um conjunto mais completo de funcionalidades, cobrindo todo o ciclo de vida do desenvolvimento.
-c) As ferramentas integradas são mais difíceis de aprender a utilizar.
-d) As ferramentas integradas são mais adequadas para projetos de pequeno porte.
+A) As ferramentas integradas são mais caras que as não integradas.  
+B) As ferramentas integradas oferecem um conjunto mais completo de funcionalidades, cobrindo todo o ciclo de vida do desenvolvimento.  
+C) As ferramentas integradas são mais difíceis de aprender a utilizar.  
+D) As ferramentas integradas são mais adequadas para projetos de pequeno porte.
 
-Questão 10:
+---
 
-Qual das seguintes afirmações sobre a utilização de ferramentas CASE em projetos ágeis é VERDADEIRA?
+### Questão 10: Qual das seguintes afirmações sobre a utilização de ferramentas CASE em projetos ágeis é VERDADEIRA?
 
-a) As ferramentas CASE são incompatíveis com as metodologias ágeis.
-b) As ferramentas CASE podem auxiliar na visualização e comunicação dos requisitos em projetos ágeis.
-c) As ferramentas CASE são utilizadas apenas em projetos de grande porte.
-d) As ferramentas CASE aumentam a burocracia em projetos ágeis.
+A) As ferramentas CASE são incompatíveis com as metodologias ágeis.  
+B) As ferramentas CASE podem auxiliar na visualização e comunicação dos requisitos em projetos ágeis.  
+C) As ferramentas CASE são utilizadas apenas em projetos de grande porte.  
+D) As ferramentas CASE aumentam a burocracia em projetos ágeis.
 
-Questão 11:
-Qual a principal diferença entre ferramentas de análise estática e dinâmica?
+---
 
-a) As ferramentas de análise estática analisam o código fonte sem executá-lo, enquanto as dinâmicas analisam o software durante a execução.
-b) As ferramentas de análise estática focam em erros de lógica, enquanto as dinâmicas focam em erros de sintaxe.
-c) As ferramentas de análise estática são mais utilizadas em fases iniciais do desenvolvimento, enquanto as dinâmicas são utilizadas em fases finais.
-d) As ferramentas de análise estática são mais complexas e caras que as dinâmicas.
+### Questão 11: Qual a principal diferença entre ferramentas de análise estática e dinâmica?
 
-Questão 12:
-Qual o papel das ferramentas de prototipação no desenvolvimento de software?
+A) As ferramentas de análise estática analisam o código fonte sem executá-lo, enquanto as dinâmicas analisam o software durante a execução.  
+B) As ferramentas de análise estática focam em erros de lógica, enquanto as dinâmicas focam em erros de sintaxe.  
+C) As ferramentas de análise estática são mais utilizadas em fases iniciais do desenvolvimento, enquanto as dinâmicas são utilizadas em fases finais.  
+D) As ferramentas de análise estática são mais complexas e caras que as dinâmicas.
 
-a) Gerar o código fonte final do software.
-b) Criar modelos visuais para auxiliar na compreensão dos requisitos e design do sistema.
-c) Automatizar os testes de software.
-d) Gerenciar a configuração do software ao longo do seu ciclo de vida.
+---
 
-Questão 13:
-Qual a principal vantagem de utilizar ferramentas CASE integradas?
+### Questão 12: Qual o papel das ferramentas de prototipação no desenvolvimento de software?
 
-a) São mais baratas que as ferramentas não integradas.
-b) São mais fáceis de aprender e utilizar.
-c) Oferecem um conjunto completo de funcionalidades, cobrindo todo o ciclo de vida do desenvolvimento.
-d) São mais adequadas para projetos de pequeno porte.
+A) Gerar o código fonte final do software.  
+B) Criar modelos visuais para auxiliar na compreensão dos requisitos e design do sistema.  
+C) Automatizar os testes de software.  
+D) Gerenciar a configuração do software ao longo do seu ciclo de vida.
 
-Questão 14:
-Qual o papel das ferramentas de gestão de configuração de software (SCM)?
+---
 
-a) Automatizar a geração de código.
-b) Controlar as versões dos arquivos do projeto e rastrear as mudanças.
-c) Criar diagramas UML.
-d) Gerenciar os requisitos do sistema.
+### Questão 13: Qual a principal vantagem de utilizar ferramentas CASE integradas?
 
-Questão 15:
-Qual a importância das ferramentas de reengenharia?
+A) São mais baratas que as ferramentas não integradas.  
+B) São mais fáceis de aprender e utilizar.  
+C) Oferecem um conjunto completo de funcionalidades, cobrindo todo o ciclo de vida do desenvolvimento.  
+D) São mais adequadas para projetos de pequeno porte.
 
-a) Automatizar a criação de novos sistemas.
-b) Melhorar a qualidade de sistemas legados, tornando-os mais modernos e manuteníveis.
-c) Gerenciar projetos de grande porte.
-d) Criar protótipos de interfaces.
+---
+
+### Questão 14: Qual o papel das ferramentas de gestão de configuração de software (SCM)?
+
+A) Automatizar a geração de código.  
+B) Controlar as versões dos arquivos do projeto e rastrear as mudanças.  
+C) Criar diagramas UML.  
+D) Gerenciar os requisitos do sistema.
+
+---
+
+### Questão 15: Qual a importância das ferramentas de reengenharia?
+
+A) Automatizar a criação de novos sistemas.  
+B) Melhorar a qualidade de sistemas legados, tornando-os mais modernos e manuteníveis.  
+C) Gerenciar projetos de grande porte.  
+D) Criar protótipos de interfaces.
+
+---
 
 ## Gabarito:
 

@@ -4,4 +4,4 @@ A aula sobre Análise de requisitos de software pode ser observada sob os seguin
 
 ## Mapa mental
 
-![Mapa mental da aula](../../../../../images/engenharia2_2.png)
+![Mapa mental da aula](../../../../../images/engenharia_de_software/engenharia2_2.png)
