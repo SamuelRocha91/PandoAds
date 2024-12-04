@@ -147,6 +147,16 @@ Este repositório contém apontamentos, resenhas de livros e trabalhos realizado
     - Reuniões e Artefatos do Scrum
       - [Resumo da Aula](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_1/TIC_em_trilhas/SCRUM/Módulo_3/README_resumo..md)
       - [Questionário](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_1/TIC_em_trilhas/SCRUM/Módulo_3/README_questoes.md)
+  - GIT e GITHUB
+    - Introdução ao Git e Github
+      - [Resumo da Aula](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_1/TIC_em_trilhas/GIT_e_GITHUB/Módulo_1/README_resumo..md)
+      - [Questionário](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_1/TIC_em_trilhas/GIT_e_GITHUB/Módulo_1/README_questoes.md)
+    - Controle de versão e colaboração
+      - [Resumo da Aula](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_1/TIC_em_trilhas/GIT_e_GITHUB/Módulo_2/README_resumo..md)
+      - [Questionário](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_1/TIC_em_trilhas/GIT_e_GITHUB/Módulo_2/README_questoes.md)
+    - Comandos avançados do Git
+      - [Resumo da Aula](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_1/TIC_em_trilhas/GIT_e_GITHUB/Módulo_3/README_resumo..md)
+      - [Questionário](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_1/TIC_em_trilhas/GIT_e_GITHUB/Módulo_3/README_questoes.md)
 </details>
 
 
