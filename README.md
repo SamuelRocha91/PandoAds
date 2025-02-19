@@ -160,6 +160,20 @@ Este repositório contém apontamentos, resenhas de livros e trabalhos realizado
 </details>
 
 
+<details>
+ <summary>
+
+ #### 📁 /Periodo_2
+
+</summary> 
+
+- **Banco de Dados**
+  - Unidade 1
+    - Conceitos básicos sobre banco de dados
+      - [Resumo da Aula](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_2/Banco_de_dados/Unidade_1/Aula_01-Conceitos_básicos_banco_de_dados/README_resumo..md)
+      - [Questionário](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_2/Banco_de_dados/Unidade_1/Aula_01-Conceitos_básicos_banco_de_dados/README_questoes.md)
+</details>
+
 </details>
 
 ---
