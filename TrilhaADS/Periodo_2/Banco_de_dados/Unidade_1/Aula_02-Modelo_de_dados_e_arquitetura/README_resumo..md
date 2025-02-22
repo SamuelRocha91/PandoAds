@@ -1,6 +1,6 @@
 # Resumo
 
-A aula sobre conceitos básicos de bancos de dados pode ser observada sob os seguintes enfoques:
+A aula sobre Modelos de dados e arquitetura de bancos de dados pode ser observada sob os seguintes enfoques:
 
 ## Mapa mental
 
