@@ -4,4 +4,4 @@ A aula sobre conceitos básicos e histórico da matemática computacional pode s
 
 ## Mapa mental
 
-![Mapa mental da aula](../../../../images/matematica_computacional/mc11.png)
+![Mapa mental da aula](../../../../../images/matematica_computacional/mc11.png)

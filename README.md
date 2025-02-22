@@ -175,14 +175,20 @@ Este repositório contém apontamentos, resenhas de livros e trabalhos realizado
     - Modelos de dados e arquitetura do Sistema de Banco de Dados
       - [Resumo da Aula](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_2/Banco_de_dados/Unidade_1/Aula_02-Modelo_de_dados_e_arquitetura/README_resumo..md)
       - [Questionário](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_2/Banco_de_dados/Unidade_1/Aula_02-Modelo_de_dados_e_arquitetura/README_questoes.md)
-- **Matemática COmputacional**
+- **Matemática Computacional**
   - Unidade 1
     - Conceitos básicos e histórico da matemática computacional
-      - [Resumo da Aula](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_2/Matem%C3%A1tica_computacional/Aula_01-Conceitos_b%C3%A1sicos_e_historico/README_resumo..md)
-      - [Questionário](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_2/Matem%C3%A1tica_computacional/Aula_01-Conceitos_b%C3%A1sicos_e_historico/README_questoes.md)
+      - [Resumo da Aula](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_2/Matem%C3%A1tica_computacional/Unidade_1/Aula_01-Conceitos_b%C3%A1sicos_e_historico/README_resumo..md)
+      - [Questionário](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_2/Matem%C3%A1tica_computacional/Unidade_1/Aula_01-Conceitos_b%C3%A1sicos_e_historico/README_questoes.md)
     - Funções e relações
-      - [Resumo da Aula](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_2/Matem%C3%A1tica_computacional/Aula_02-Relacoes_e_funcoes/README_resumo..md)
-      - [Questionário](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_2/Matem%C3%A1tica_computacional/Aula_02-Relacoes_e_funcoes/README_questoes.md)
+      - [Resumo da Aula](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_2/Matem%C3%A1tica_computacional/Unidade_1/Aula_02-Relacoes_e_funcoes/README_resumo..md)
+      - [Questionário](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_2/Matem%C3%A1tica_computacional/Unidade_1/Aula_02-Relacoes_e_funcoes/README_questoes.md)
+- **Programação Estruturada**
+  - Unidade 1
+    - Falando sobre Programação Estruturada
+      - [Resumo da Aula](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_2/Programacao_estruturada/Unidade_1/Aula_01-Falando_sobre_programacao/README_resumo..md)
+      - [Questionário](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_2/Programacao_estruturada/Unidade_1/Aula_01-Falando_sobre_programacao/README_questoes.md)
+
 </details>
 
 </details>
