@@ -180,6 +180,9 @@ Este repositório contém apontamentos, resenhas de livros e trabalhos realizado
     - Conceitos básicos e histórico da matemática computacional
       - [Resumo da Aula](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_2/Matem%C3%A1tica_computacional/Aula_01-Conceitos_b%C3%A1sicos_e_historico/README_resumo..md)
       - [Questionário](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_2/Matem%C3%A1tica_computacional/Aula_01-Conceitos_b%C3%A1sicos_e_historico/README_questoes.md)
+    - Funções e relações
+      - [Resumo da Aula](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_2/Matem%C3%A1tica_computacional/Aula_02-Relacoes_e_funcoes/README_resumo..md)
+      - [Questionário](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_2/Matem%C3%A1tica_computacional/Aula_02-Relacoes_e_funcoes/README_questoes.md)
 </details>
 
 </details>
