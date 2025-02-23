@@ -176,6 +176,9 @@ Este repositório contém apontamentos, resenhas de livros e trabalhos realizado
     - Modelos de dados relacionais
       - [Resumo da Aula](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_2/Banco_de_dados/Unidade_2/Aula_01-Modelo_se_dados_relacional/README_resumo..md)
       - [Questionário](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_2/Banco_de_dados/Unidade_2/Aula_01-Modelo_se_dados_relacional/README_questoes.md)
+    - Características dos bancos de dados
+      - [Resumo da Aula](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_2/Banco_de_dados/Unidade_2/Aula_02-Caracteristicas_banco_de_dados/README_resumo..md)
+      - [Questionário](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_2/Banco_de_dados/Unidade_2/Aula_02-Caracteristicas_banco_de_dados/README_questoes.md)
 
 - **Matemática Computacional**
   - Unidade 1
