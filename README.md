@@ -81,8 +81,6 @@ Este repositório contém apontamentos, resenhas de livros e trabalhos realizado
       - [Resumo da Aula](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_1/Engenharia_de_software_e_requisitos/Unidade_4/Aula_03-Ferramentas_CASE/README_resumo..md)
       - [Questionário](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_1/Engenharia_de_software_e_requisitos/Unidade_4/Aula_03-Ferramentas_CASE/README_questoes.md)
 
-
-
 - **Planejamento Estratégico**
   - Unidade 1
     - Conceitos Básicos de Gestão Estratégica
@@ -102,7 +100,6 @@ Este repositório contém apontamentos, resenhas de livros e trabalhos realizado
     - Mensuração da estratégia e inteligência competitiva
       - [Resumo da Aula](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_1/Planejamento_estrategico/Unidade_4/Aula_01-Mapeando_e_inteligencia_competitiva/README_resumo..md)
       - [Questionário](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_1/Planejamento_estrategico/Unidade_4/Aula_01-Mapeando_e_inteligencia_competitiva/README_questoes.md)
-
 
 - **Gestão de TI e Interação Humano-Computador**
   - Unidade 1
@@ -175,6 +172,11 @@ Este repositório contém apontamentos, resenhas de livros e trabalhos realizado
     - Modelos de dados e arquitetura do Sistema de Banco de Dados
       - [Resumo da Aula](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_2/Banco_de_dados/Unidade_1/Aula_02-Modelo_de_dados_e_arquitetura/README_resumo..md)
       - [Questionário](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_2/Banco_de_dados/Unidade_1/Aula_02-Modelo_de_dados_e_arquitetura/README_questoes.md)
+  - Unidade 2
+    - Modelos de dados relacionais
+      - [Resumo da Aula](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_2/Banco_de_dados/Unidade_2/Aula_01-Modelo_se_dados_relacional/README_resumo..md)
+      - [Questionário](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_2/Banco_de_dados/Unidade_2/Aula_01-Modelo_se_dados_relacional/README_questoes.md)
+
 - **Matemática Computacional**
   - Unidade 1
     - Conceitos básicos e histórico da matemática computacional
@@ -183,6 +185,7 @@ Este repositório contém apontamentos, resenhas de livros e trabalhos realizado
     - Funções e relações
       - [Resumo da Aula](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_2/Matem%C3%A1tica_computacional/Unidade_1/Aula_02-Relacoes_e_funcoes/README_resumo..md)
       - [Questionário](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_2/Matem%C3%A1tica_computacional/Unidade_1/Aula_02-Relacoes_e_funcoes/README_questoes.md)
+
 - **Programação Estruturada**
   - Unidade 1
     - Falando sobre Programação Estruturada
