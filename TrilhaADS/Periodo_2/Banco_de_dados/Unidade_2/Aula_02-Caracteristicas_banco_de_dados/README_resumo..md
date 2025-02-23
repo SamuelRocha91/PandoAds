@@ -1,6 +1,6 @@
 # Resumo
 
-A aula sobreCaracterísticas dos bancos de dados pode ser observada sob os seguintes enfoques:
+A aula sobre Características dos bancos de dados pode ser observada sob os seguintes enfoques:
 
 ## Mapa mental
 

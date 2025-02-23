@@ -188,6 +188,10 @@ Este repositório contém apontamentos, resenhas de livros e trabalhos realizado
     - Funções e relações
       - [Resumo da Aula](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_2/Matem%C3%A1tica_computacional/Unidade_1/Aula_02-Relacoes_e_funcoes/README_resumo..md)
       - [Questionário](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_2/Matem%C3%A1tica_computacional/Unidade_1/Aula_02-Relacoes_e_funcoes/README_questoes.md)
+  - Unidade 2
+    - Funções exponenciais, logarítimicas, trigonométricas e outras relações do cotidiano
+      - [Resumo da Aula](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_2/Matem%C3%A1tica_computacional/Unidade_2/Aula_01-Tipos_de_funcoes_e_outras_relacoes/README_resumo..md)
+      - [Questionário](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_2/Matem%C3%A1tica_computacional/Unidade_2/Aula_01-Tipos_de_funcoes_e_outras_relacoes/README_questoes.md)
 
 - **Programação Estruturada**
   - Unidade 1
