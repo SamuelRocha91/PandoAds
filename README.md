@@ -192,6 +192,9 @@ Este repositório contém apontamentos, resenhas de livros e trabalhos realizado
     - Funções exponenciais, logarítimicas, trigonométricas e outras relações do cotidiano
       - [Resumo da Aula](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_2/Matem%C3%A1tica_computacional/Unidade_2/Aula_01-Tipos_de_funcoes_e_outras_relacoes/README_resumo..md)
       - [Questionário](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_2/Matem%C3%A1tica_computacional/Unidade_2/Aula_01-Tipos_de_funcoes_e_outras_relacoes/README_questoes.md)
+    - Matrizes
+      - [Resumo da Aula](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_2/Matem%C3%A1tica_computacional/Unidade_2/Aula_02-Matrizes/README_resumo..md)
+      - [Questionário](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_2/Matem%C3%A1tica_computacional/Unidade_2/Aula_02-Matrizes/README_questoes.md)
 
 - **Programação Estruturada**
   - Unidade 1
