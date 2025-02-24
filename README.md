@@ -204,6 +204,13 @@ Este repositório contém apontamentos, resenhas de livros e trabalhos realizado
     - Começando a programar em C
       - [Resumo da Aula](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_2/Programacao_estruturada/Unidade_1/Aula_02-Comecando_a_programar_em_C/README_resumo..md)
       - [Questionário](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_2/Programacao_estruturada/Unidade_1/Aula_02-Comecando_a_programar_em_C/README_questoes.md)
+  - Unidade 2
+    - Estruturas de seleção em C
+      - [Resumo da Aula](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_2/Programacao_estruturada/Unidade_2/Aula_01-Estruturas_de_selecao/README_resumo..md)
+      - [Questionário](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_2/Programacao_estruturada/Unidade_2/Aula_01-Estruturas_de_selecao/README_questoes.md)
+    - Estruturas de repetição
+      - [Resumo da Aula](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_2/Programacao_estruturada/Unidade_2/Aula_02-Estruturas_de_repeticao/README_resumo..md)
+      - [Questionário](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_2/Programacao_estruturada/Unidade_2/Aula_02-Estruturas_de_repeticao/README_questoes.md)
 
 </details>
 
