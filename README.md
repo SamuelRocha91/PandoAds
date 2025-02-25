@@ -179,6 +179,20 @@ Este repositório contém apontamentos, resenhas de livros e trabalhos realizado
     - Características dos bancos de dados
       - [Resumo da Aula](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_2/Banco_de_dados/Unidade_2/Aula_02-Caracteristicas_banco_de_dados/README_resumo..md)
       - [Questionário](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_2/Banco_de_dados/Unidade_2/Aula_02-Caracteristicas_banco_de_dados/README_questoes.md)
+  - Unidade 3
+    - Modelagem conceitual e projeto de banco de dados
+      - [Resumo da Aula](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_2/Banco_de_dados/Unidade_3/Aula_01-Modelagem_conceitual_e_projeto/README_resumo..md)
+      - [Questionário](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_2/Banco_de_dados/Unidade_3/Aula_01-Modelagem_conceitual_e_projeto/README_questoes.md)
+    - Modelagem de banco de dados
+      - [Resumo da Aula](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_2/Banco_de_dados/Unidade_3/Aula_02-Modelagem_de_banco_de_dados/README_resumo..md)
+      - [Questionário](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_2/Banco_de_dados/Unidade_3/Aula_02-Modelagem_de_banco_de_dados/README_questoes.md)
+  - Unidade 4
+    - Modelando do início ao fim
+      - [Resumo da Aula](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_2/Banco_de_dados/Unidade_4/Aula_01-Modelando_do_inicio_ao_fim/README_resumo..md)
+      - [Questionário](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_2/Banco_de_dados/Unidade_4/Aula_01-Modelando_do_inicio_ao_fim/README_questoes.md)
+    - Linguagens de banco de dados
+      - [Resumo da Aula](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_2/Banco_de_dados/Unidade_4/Aula_02-Linguagens_de_banco_de_dados/README_resumo..md)
+      - [Questionário](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_2/Banco_de_dados/Unidade_4/Aula_02-Linguagens_de_banco_de_dados/README_questoes.md)
 
 - **Matemática Computacional**
   - Unidade 1
