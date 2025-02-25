@@ -1,6 +1,6 @@
 # Resumo
 
-A aula sobre Matrizes pode ser observada sob os seguintes enfoques:
+A aula sobre Lógica proposicional pode ser observada sob os seguintes enfoques:
 
 ## Mapa mental
 
