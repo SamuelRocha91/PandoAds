@@ -2,155 +2,106 @@
 
 ---
 
-### Questão 1: Qual é a definição de uma função exponencial?
+### Questão 1: Qual é o resultado da soma: (-8) + (+3)?
 
-A) Uma função onde a variável está no expoente.
-B) Uma função onde a base do expoente é sempre negativa.
-C) Uma função onde a variável está no denominador.
-D) Uma função onde o gráfico é sempre uma linha reta.
-
----
-
-### Questão 2: Qual das seguintes funções representa uma função logarítmica?
-
-A) f(x) = 2^x
-B) f(x) = log(x)
-C) f(x) = x^2 + 3x
-D) f(x) = sqrt(x)
+A) -11
+B) -5
+C) +5
+D) +11
 
 ---
 
-### Questão 3:  O que significa logaritmo na base 10 de 1000, ou seja, log(1000)?
+### Questão 2: O produto de dois números negativos sempre resulta em:
 
-A) 2
-B) 3
-C) 4
-D) 5
-
----
-
-### Questão 4: Qual o valor aproximado de sen(90)?
-
-A) 0
-B) 1
-C) -1
-D) raiz de 3 sobre 2
+A) Um número negativo
+B) Um número positivo
+C) Zero
+D) Depende dos valores
 
 ---
 
-### Questão 5: Se cos(x) = 0,5, qual é o valor de x em graus no primeiro quadrante?
+### Questão 3:  Qual operação é a inversa da multiplicação?
 
-A) 30 graus
-B) 45 graus
-C) 60 graus
-D) 90 graus
-
----
-
-### Questão 6:  Um número aumentou de 40 para 50. Qual foi o percentual de aumento?
-
-A) 20%
-B) 25%
-C) 10%
-D) 15%
+A) Adição
+B) Subtração
+C) Divisão
+D) Exponenciação
 
 ---
 
-### Questão 7:  Um valor sofre um desconto de 30% e passa a valer 140 reais. Qual era o valor original?
+### Questão 4: De acordo com a regra de sinais, qual é o resultado da operação (-6) x (+4)?
 
-A) 180 reais
-B) 200 reais
-C) 220 reais
-D) 190 reais
-
----
-
-### Questão 8: Qual é a razão entre os números 12 e 8?
-
-A) 1.5
-B) 2
-C) 3
-D) 4
+A) +24
+B) -24
+C) +10
+D) -10
 
 ---
 
-### Questão 9: Se 3 metros correspondem a 5 passos de João, quantos metros ele percorre em 20 passos?
+### Questão 5: Na expressão 10 - (-5), o que acontece com os sinais antes da subtração?
 
-A) 9 metros
-B) 10 metros
-C) 12 metros
-D) 15 metros
-
----
-
-### Questão 10: Qual a média aritmética dos números 4, 8, 12 e 16?
-
-A) 8
-B) 10
-C) 12
-D) 14
+A) Eles se mantêm iguais
+B) O sinal de menos da subtração anula o sinal de menos do número
+C) O sinal do número muda, mas a subtração continua
+D) O resultado sempre será negativo
 
 ---
 
-### Questão 11: Se três números têm uma média geométrica de 6 e um deles é 3, qual é o produto dos outros dois?
+### Questão 6:  Considerando a prioridade das operações, qual é o resultado de 2 + 3 x 4?
 
-A) 36
-B) 72
-C) 108
-D) 144
-
----
-
-### Questão 12: Qual das seguintes opções é a média harmônica dos números 2 e 4?
-
-A) 2.5
-B) 3
-C) 3.2
-D) 2.66
+A) 20
+B) 14
+C) 8
+D) 24
 
 ---
 
-### Questão 13: Em uma avaliação, as notas de um aluno foram 5, 7 e 9. Se a nota 7 tem peso 2 e as outras peso 1, qual a média ponderada?
+### Questão 7: Qual das propriedades abaixo é conhecida como a propriedade distributiva?
 
-A) 6.5
-B) 7
-C) 7.2
-D) 7.5
-
----
-
-### Questão 14: O valor de 3^4 equivale a:
-
-A) 12
-B) 27
-C) 64
-D) 81
+A) (a + b) + c = a + (b + c)
+B) a(b + c) = ab + ac
+C) a + 0 = a
+D) a x 1 = a
 
 ---
 
-### Questão 15: Qual alternativa melhor define a tangente de um ângulo em um triângulo retângulo?
+### Questão 8: Qual das alternativas contém apenas operações inversas entre si?
 
-A) Cateto oposto dividido pelo cateto adjacente.
-B) Cateto adjacente dividido pela hipotenusa.
-C) Cateto oposto dividido pela hipotenusa.
-D) Hipotenusa dividida pelo cateto oposto.
+A) Soma e multiplicação
+B) Multiplicação e exponenciação
+C) Adição e subtração
+D) Subtração e divisão
 
 ---
+
+### Questão 9: Qual das seguintes expressões tem um resultado negativo?
+
+A) (-5) + (+3)
+B) (-2) x (-2)
+C) (+6) - (+8)
+D) (+10) / (-2)
+
+---
+
+### Questão 10: Qual operação deve ser resolvida primeiro na expressão 5 + 2 x (8 - 3)?
+
+A) 5 + 2
+B) 2 x 8
+C) 8 - 3
+D) 2 x 5
+
+---
+
 
 ## Gabarito:
 
-1) A;
+1) B;
 2) B;
-3) B;
+3) C;
 4) B;
-5) A;
+5) B;
 6) B;
 7) B;
-8) A;
-9) B;
-10) A;
-11) B;
-12) D;
-13) C;
-14) D;
-15) A;
+8) C;
+9) D;
+10) C;

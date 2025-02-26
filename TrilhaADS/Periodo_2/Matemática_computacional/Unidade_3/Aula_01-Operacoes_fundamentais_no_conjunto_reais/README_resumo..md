@@ -4,4 +4,4 @@ A aula sobre Operações fundamentais no conjunto de números Reais pode ser obs
 
 ## Mapa mental
 
-![Mapa mental da aula](../../../../../images/matematica_computacional/mc21.png)
+![Mapa mental da aula](../../../../../images/matematica_computacional/mc31.png)
