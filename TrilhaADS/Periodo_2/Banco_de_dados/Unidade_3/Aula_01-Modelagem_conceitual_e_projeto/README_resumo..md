@@ -4,4 +4,4 @@ A aula sobre Modelagem conceitual e projeto de banco de dados pode ser observada
 
 ## Mapa mental
 
-![Mapa mental da aula](../../../../../images/banco_de_dados/bancoDeDados21.png)
+![Mapa mental da aula](../../../../../images/banco_de_dados/bancoDeDados31.png)
