@@ -2,155 +2,106 @@
 
 ---
 
-### Questão 1: Qual das características abaixo garante que os dados armazenados estejam sempre corretos e consistentes?
+### Questão 1: Qual das seguintes opções pertence ao módulo DDL (Data Definition Language) do SQL?
 
-A) Segurança
-B) Integridade
-C) Compartilhamento
-D) Portabilidade
-
----
-
-### Questão 2:  O que caracteriza a concorrência em um banco de dados?
-
-A) A capacidade de armazenar grandes volumes de dados
-B) O controle de acesso simultâneo por várias transações sem causar inconsistências
-C) A replicação dos dados em diferentes servidores
-D) O uso de múltiplos bancos de dados dentro de um mesmo sistema
+A) INSERT
+B) UPDATE
+C) CREATE
+D) SELECT
 
 ---
 
-### Questão 3: A segurança em um banco de dados está relacionada a:
+### Questão 2: O módulo DML (Data Manipulation Language) é responsável por:
 
-A) Controle de acesso, criptografia e permissões de usuário
-B) Indexação eficiente para acelerar as consultas
-C) Distribuição dos dados em vários servidores
-D) Formatação dos dados para garantir melhor armazenamento
-
----
-
-### Questão 4: O que é distribuição em um banco de dados?
-
-A) A técnica de armazenamento de dados exclusivamente na nuvem
-B) A replicação dos dados entre diferentes servidores ou locais geográficos
-C) O particionamento dos dados entre tabelas diferentes dentro do mesmo banco
-D) A divisão dos usuários por grupos para otimizar o acesso
+A) Definir a estrutura das tabelas e bancos de dados.
+B) Inserir, atualizar, excluir e consultar dados armazenados.
+C) Controlar permissões de usuários no banco de dados.
+D) Criar triggers e stored procedures.
 
 ---
 
-### Questão 5: O que garante que um banco de dados continue funcionando corretamente mesmo após falhas inesperadas?
+### Questão 3: Qual dos seguintes comandos pertence ao módulo DCL (Data Control Language)?
 
-A) Compartilhamento
-B) Confiabilidade
-C) Escalabilidade
-D) Portabilidade
-
----
-
-### Questão 6: A portabilidade de um banco de dados refere-se a:
-
-A) Sua capacidade de ser transferido entre diferentes sistemas e plataformas
-B) A facilidade de acesso simultâneo por múltiplos usuários
-C) A replicação dos dados entre servidores distintos
-D) O tempo necessário para executar operações complexas
+A) DELETE
+B) GRANT
+C) SELECT
+D) ALTER
 
 ---
 
-### Questão 7: Quando um banco de dados permite que vários usuários acessem e manipulem os dados ao mesmo tempo sem interferência, isso se refere a:
+### Questão 4: O módulo DQL (Data Query Language) contém qual dos seguintes comandos?
 
-A) Integridade
-B) Compartilhamento
-C) Segurança
-D) Desempenho
-
----
-
-### Questão 8: Qual característica de um banco de dados está associada à sua capacidade de lidar com um grande aumento de usuários e dados sem perda de eficiência?
-
-A) Confiabilidade
-B) Desempenho
-C) Escalabilidade
-D) Recuperação
+A) SELECT
+B) INSERT
+C) DROP
+D) GRANT
 
 ---
 
-### Questão 9: A recuperação em bancos de dados está relacionada a:
+### Questão 5: Qual das seguintes instruções pertence ao módulo DTL (Data Transaction Language)?
 
-A) Técnicas para restaurar o banco a um estado consistente após falhas
-B) A capacidade de processar grandes volumes de transações rapidamente
-C) A criptografia dos dados para evitar acesso indevido
-D) A replicação automática dos dados entre servidores distintos
-
----
-
-### Questão 10: Qual das seguintes alternativas representa um fator essencial para garantir desempenho eficiente em um banco de dados?
-
-A) Exclusão frequente de registros antigos
-B) Otimização de índices e consultas
-C) Permissão para acessos ilimitados sem restrições
-D) Armazenamento de todos os dados em um único arquivo grande
+A) COMMIT
+B) ALTER
+C) REVOKE
+D) INSERT
 
 ---
 
-### Questão 11: Qual princípio impede que dados sejam corrompidos ou alterados de forma indevida, garantindo sua exatidão e confiabilidade?
+### Questão 6: No contexto de DTL (Data Transaction Language), o comando ROLLBACK é utilizado para:
 
-A) Integridade
-B) Escalabilidade
-C) Distribuição
-D) Recuperação
-
----
-
-### Questão 12: A integração em um banco de dados significa:
-
-A) O uso de diferentes tipos de armazenamento de dados
-B) A combinação de informações de diversas fontes para um formato unificado
-C) A possibilidade de acessar os dados remotamente
-D) A garantia de que os dados nunca serão excluídos
+A) Confirmar as operações realizadas na transação.
+B) Desfazer as operações realizadas desde o último COMMIT.
+C) Criar uma nova transação no banco de dados.
+D) Executar uma consulta de dados.
 
 ---
 
-### Questão 13: O que pode comprometer a segurança de um banco de dados?
+### Questão 7: Qual das seguintes opções caracteriza o uso de Embedded DML?
 
-A) A replicação de dados entre servidores distintos
-B) O uso de senhas fortes e criptografia avançada
-C) O acesso não autorizado ou ataques cibernéticos
-D) A otimização de índices e consultas
-
----
-
-### Questão 14: A disponibilidade de um banco de dados é garantida quando:
-
-A) O sistema suporta múltiplos formatos de arquivos
-B) Os dados estão sempre acessíveis mesmo diante de falhas ou alta demanda
-C) O tempo de resposta para consultas é sempre inferior a um segundo
-D) O banco de dados impede completamente o acesso simultâneo de usuários
+A) A inclusão de comandos SQL dentro de linguagens como C, Java ou Python.
+B) A execução de scripts SQL diretamente no terminal do banco de dados.
+C) A criação de tabelas e índices no banco de dados.
+D) A administração de permissões de usuários no banco de dados.
 
 ---
 
-### Questão 15: Quando um banco de dados permite que os usuários realizem transações simultâneas sem conflitos ou perda de integridade, estamos falando sobre:
+### Questão 8: No SQL, o comando TRUNCATE pertence ao módulo:
 
-A) Portabilidade
-B) Concorrência
-C) Recuperação
-D) Segurança
+A) DDL (Data Definition Language)
+B) DML (Data Manipulation Language)
+C) DCL (Data Control Language)
+D) DQL (Data Query Language)
+
+---
+
+### Questão 9: Qual das alternativas abaixo NÃO é uma característica do comando DELETE?
+
+A) Pode ser revertido com ROLLBACK.
+B) Pode remover registros específicos com base em uma condição.
+C) Remove todos os registros da tabela, sem possibilidade de recuperação.
+D) Faz parte do módulo DML.
+
+---
+
+### Questão 10: Qual das seguintes operações necessita de um COMMIT para se tornar permanente?
+
+A) CREATE TABLE
+B) GRANT
+C) INSERT
+D) ALTER TABLE
 
 ---
 
 ## Gabarito:
 
-1) B;
+1) C;
 2) B;
-3) A;
-4) B;
-5) B;
-6) A;
-7) B;
-8) C;
-9) A;
-10) B;
-11) A;
-12) B;
-13) C;
-14) B;
-15) B;
+3) B;
+4) A;
+5) A;
+6) B;
+7) A;
+8) A;
+9) C;
+10) C;
+
