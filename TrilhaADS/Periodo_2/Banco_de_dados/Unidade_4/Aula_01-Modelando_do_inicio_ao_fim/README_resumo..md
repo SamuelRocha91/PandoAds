@@ -1,7 +1,7 @@
 # Resumo
 
-A aula sobre modelando do início ao fim pode ser observada sob os seguintes enfoques:
+A aula prática "modelando do início ao fim" gerou a seguinte construção final:
 
 ## Mapa mental
 
-![Mapa mental da aula](../../../../../images/banco_de_dados/bancoDeDados21.png)
+![Mapa mental da aula](../../../../../images/banco_de_dados/bancoDeDados41.png)
