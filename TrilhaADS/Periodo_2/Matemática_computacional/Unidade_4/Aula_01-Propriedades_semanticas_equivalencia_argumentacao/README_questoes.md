@@ -2,155 +2,105 @@
 
 ---
 
-### Questão 1: Qual é a definição de uma função exponencial?
+### Questão 1: Qual das alternativas descreve corretamente uma tautologia?
 
-A) Uma função onde a variável está no expoente.
-B) Uma função onde a base do expoente é sempre negativa.
-C) Uma função onde a variável está no denominador.
-D) Uma função onde o gráfico é sempre uma linha reta.
-
----
-
-### Questão 2: Qual das seguintes funções representa uma função logarítmica?
-
-A) f(x) = 2^x
-B) f(x) = log(x)
-C) f(x) = x^2 + 3x
-D) f(x) = sqrt(x)
+A) Uma fórmula que é falsa em todas as interpretações possíveis
+B) Uma fórmula que pode ser verdadeira ou falsa dependendo da interpretação
+C) Uma fórmula que é verdadeira em todas as interpretações possíveis
+D) Uma fórmula que não pode ser avaliada logicamente
 
 ---
 
-### Questão 3:  O que significa logaritmo na base 10 de 1000, ou seja, log(1000)?
+### Questão 2: Qual das seguintes proposições é uma contradição?
 
-A) 2
-B) 3
-C) 4
-D) 5
-
----
-
-### Questão 4: Qual o valor aproximado de sen(90)?
-
-A) 0
-B) 1
-C) -1
-D) raiz de 3 sobre 2
+A) P ou não P
+B) P e não P
+C) Se P então P
+D) P ou Q
 
 ---
 
-### Questão 5: Se cos(x) = 0,5, qual é o valor de x em graus no primeiro quadrante?
+### Questão 3: Quando dizemos que duas proposições são equivalentes?
 
-A) 30 graus
-B) 45 graus
-C) 60 graus
-D) 90 graus
-
----
-
-### Questão 6:  Um número aumentou de 40 para 50. Qual foi o percentual de aumento?
-
-A) 20%
-B) 25%
-C) 10%
-D) 15%
+A) Quando sempre possuem o mesmo valor de verdade em todas as interpretações
+B) Quando uma implica na outra, mas não o contrário
+C) Quando possuem valores de verdade diferentes em algumas interpretações
+D) Quando uma é tautologia e a outra é contradição
 
 ---
 
-### Questão 7:  Um valor sofre um desconto de 30% e passa a valer 140 reais. Qual era o valor original?
+### Questão 4: Qual das seguintes afirmações é verdadeira sobre uma fórmula inconsistente?
 
-A) 180 reais
-B) 200 reais
-C) 220 reais
-D) 190 reais
-
----
-
-### Questão 8: Qual é a razão entre os números 12 e 8?
-
-A) 1.5
-B) 2
-C) 3
-D) 4
+A) Ela é sempre verdadeira
+B) Ela pode ser verdadeira ou falsa dependendo da interpretação
+C) Ela nunca pode ser verdadeira
+D) Ela só é falsa quando P for verdadeiro
 
 ---
 
-### Questão 9: Se 3 metros correspondem a 5 passos de João, quantos metros ele percorre em 20 passos?
+### Questão 5: O que significa dizer que uma fórmula é contingente?
 
-A) 9 metros
-B) 10 metros
-C) 12 metros
-D) 15 metros
-
----
-
-### Questão 10: Qual a média aritmética dos números 4, 8, 12 e 16?
-
-A) 8
-B) 10
-C) 12
-D) 14
+A) Que ela pode ser verdadeira ou falsa dependendo da interpretação
+B) Que ela é verdadeira em todas as interpretações possíveis
+C) Que ela é falsa em todas as interpretações possíveis
+D) Que ela não pode ser expressa logicamente
 
 ---
 
-### Questão 11: Se três números têm uma média geométrica de 6 e um deles é 3, qual é o produto dos outros dois?
+### Questão 6: Se P implica Q, e P é verdadeiro, o que podemos concluir sobre Q?
 
-A) 36
-B) 72
-C) 108
-D) 144
-
----
-
-### Questão 12: Qual das seguintes opções é a média harmônica dos números 2 e 4?
-
-A) 2.5
-B) 3
-C) 3.2
-D) 2.66
+A) Q deve ser verdadeiro
+B) Q deve ser falso
+C) Q pode ser verdadeiro ou falso
+D) Nada pode ser concluído sobre Q
 
 ---
 
-### Questão 13: Em uma avaliação, as notas de um aluno foram 5, 7 e 9. Se a nota 7 tem peso 2 e as outras peso 1, qual a média ponderada?
+### Questão 7:  Qual das alternativas abaixo representa corretamente a ideia de argumento válido na lógica proposicional?
 
-A) 6.5
-B) 7
-C) 7.2
-D) 7.5
-
----
-
-### Questão 14: O valor de 3^4 equivale a:
-
-A) 12
-B) 27
-C) 64
-D) 81
+A) Se todas as premissas forem verdadeiras, a conclusão também deve ser verdadeira
+B) Se todas as premissas forem verdadeiras, a conclusão pode ser falsa
+C) A validade do argumento depende da quantidade de premissas
+D) Um argumento válido sempre tem pelo menos três premissas
 
 ---
 
-### Questão 15: Qual alternativa melhor define a tangente de um ângulo em um triângulo retângulo?
+### Questão 8: Se duas proposições são logicamente equivalentes, o que acontece com suas tabelas verdade?
 
-A) Cateto oposto dividido pelo cateto adjacente.
-B) Cateto adjacente dividido pela hipotenusa.
-C) Cateto oposto dividido pela hipotenusa.
-D) Hipotenusa dividida pelo cateto oposto.
+A) Elas terão colunas idênticas para todas as linhas
+B) Elas terão colunas diferentes, mas com o mesmo número de verdadeiros e falsos
+C) Elas terão sempre valores de verdade opostos
+D) Elas não podem ser comparadas em uma tabela verdade
+
+---
+
+### Questão 9: Qual das alternativas abaixo representa uma implicação lógica verdadeira?
+
+A) Se chover, então o chão ficará molhado
+B) Se chover, então o céu ficará limpo
+C) Se o chão estiver seco, então choveu
+D) Se eu estudar, então nunca esquecerei nada
+
+---
+
+### Questão 10: Se temos um argumento com premissas verdadeiras e uma conclusão falsa, o que podemos afirmar sobre esse argumento?
+
+A) Ele é válido
+B) Ele é inválido
+C) Ele é uma tautologia
+D) Ele é uma contradição
 
 ---
 
 ## Gabarito:
 
-1) A;
+1) C;
 2) B;
-3) B;
-4) B;
+3) A;
+4) C;
 5) A;
-6) B;
-7) B;
+6) A;
+7) A;
 8) A;
-9) B;
-10) A;
-11) B;
-12) D;
-13) C;
-14) D;
-15) A;
+9) A;
+10) B;

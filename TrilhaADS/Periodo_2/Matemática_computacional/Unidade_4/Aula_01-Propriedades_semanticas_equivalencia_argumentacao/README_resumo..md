@@ -4,4 +4,4 @@ A aula sobre Propriedades semânticas, equivalência e argumentação pode ser o
 
 ## Mapa mental
 
-![Mapa mental da aula](../../../../../images/matematica_computacional/mc21.png)
+![Mapa mental da aula](../../../../../images/matematica_computacional/mc41.png)
