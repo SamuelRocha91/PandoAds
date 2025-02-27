@@ -2,156 +2,106 @@
 
 ---
 
-### Questão 1: Qual é a ordem de uma matriz com 3 linhas e 4 colunas?
+### Questão 1: Qual é o principal objetivo da lógica proposicional?
 
-A) 3x3
-B) 3x4
-C) 4x3
-D) 4x4
-
----
-
-### Questão 2:  Uma matriz quadrada é aquela que possui:
-
-A) Mais colunas do que linhas
-B) Mais linhas do que colunas
-C) O mesmo número de linhas e colunas
-D) Apenas uma linha ou uma coluna
+A) Estudar a gramática das línguas naturais
+B) Estabelecer relações entre frases sem analisar sua veracidade
+C) Analisar a validade de argumentos com base na veracidade de proposições
+D) Criar novas palavras e significados em um idioma
 
 ---
 
-### Questão 3:  A matriz identidade de ordem 3 é uma matriz:
+### Questão 2: Qual das alternativas abaixo representa corretamente uma proposição?
 
-A) Com todos os elementos iguais a zero
-B) Com os elementos da diagonal principal iguais a 1 e os demais iguais a 0
-C) Com os elementos da diagonal principal iguais a 0 e os demais iguais a 1
-D) Com todos os elementos iguais a 1
-
----
-
-### Questão 4: A transposta da matriz A é obtida ao:
-
-A) Multiplicar todos os seus elementos por -1
-B) Trocar as colunas pelas linhas
-C) Somar 1 a todos os elementos
-D) Multiplicar cada linha por sua respectiva posição
+A) Feche a porta!
+B) 2 + 2 = 4
+C) Como você está?
+D) Vamos ao cinema?
 
 ---
 
-### Questão 5: Dadas as matrizes A de ordem 2x3 e B de ordem 3x2, a matriz produto A * B terá ordem:
+### Questão 3: Na lógica proposicional, a negação de uma proposição verdadeira resulta em:
 
-A) 2x2
-B) 2x3
-C) 3x3
-D) 3x2
-
----
-
-### Questão 6: Qual das alternativas abaixo não é uma propriedade válida da adição de matrizes?
-
-A) Comutatividade
-B) Associatividade
-C) Elemento neutro
-D) Elemento inverso multiplicativo
+A) Outra proposição verdadeira
+B) Uma proposição falsa
+C) A mesma proposição
+D) Uma frase sem sentido
 
 ---
 
-### Questão 7: O determinante de uma matriz 2x2 dada por |A| = a11 * a22 - a12 * a21 representa:
+### Questão 4: Se P for uma proposição verdadeira e Q for uma proposição falsa, qual será o valor de verdade da conjunção P e Q?
 
-A) O produto dos elementos da diagonal principal menos o produto dos elementos da diagonal secundária
-B) A soma de todos os elementos da matriz
-C) O menor valor entre os elementos da matriz
-D) O maior valor entre os elementos da matriz
-
----
-
-### Questão 8: Se uma matriz possui determinante igual a zero, então essa matriz:
-
-A) Tem inversa
-B) É chamada de singular
-C) É identidade
-D) Tem todas as suas entradas iguais
+A) Verdadeiro
+B) Falso
+C) Depende do contexto
+D) Não pode ser determinado
 
 ---
 
-### Questão 9: Qual das afirmações abaixo é verdadeira para a multiplicação de matrizes?
+### Questão 5: Na tabela verdade da disjunção (P ou Q), quando o resultado será falso?
 
-A) A * B sempre é igual a B * A
-B) Só é possível multiplicar matrizes se o número de colunas da primeira for igual ao número de linhas da segunda
-C) A multiplicação de uma matriz por outra nunca resulta em uma matriz nula
-D) Toda matriz quadrada tem inversa
-
----
-
-### Questão 10: Um sistema linear é chamado de possível e determinado quando:
-
-A) Possui infinitas soluções
-B) Possui uma única solução
-C) Não possui solução
-D) Possui soluções negativas
+A) Sempre
+B) Apenas quando P for verdadeiro e Q for falso
+C) Apenas quando P e Q forem falsos
+D) Quando P for falso e Q for verdadeiro
 
 ---
 
-### Questão 11: O número de equações e de incógnitas em um sistema linear pode determinar a existência de soluções. Qual das alternativas abaixo é correta?
+### Questão 6: A estrutura "Se P então Q" corresponde a qual conectivo lógico?
 
-A) Se o número de equações for maior que o número de incógnitas, o sistema sempre tem solução única
-B) Se o número de equações for menor que o número de incógnitas, o sistema sempre é impossível
-C) Se o número de equações for igual ao número de incógnitas e o determinante da matriz dos coeficientes for diferente de zero, então existe solução única
-D) Se o sistema tiver mais incógnitas do que equações, ele sempre terá solução única
-
----
-
-### Questão 12: A regra de Cramer pode ser aplicada quando:
-
-A) A matriz dos coeficientes do sistema for quadrada e tiver determinante diferente de zero
-B) O sistema for impossível
-C) O sistema tiver infinitas soluções
-D) O sistema for homogêneo
+A) Disjunção
+B) Conjunção
+C) Condicional
+D) Bicondicional
 
 ---
 
-### Questão 13: Se a matriz dos coeficientes de um sistema linear tem determinante igual a zero, então:
+### Questão 7: Qual é o resultado da bicondicional "P se e somente se Q", se P for verdadeiro e Q for falso?
 
-A) O sistema tem solução única
-B) O sistema pode ser impossível ou ter infinitas soluções
-C) O sistema não tem equações independentes
-D) O sistema tem exatamente duas soluções
-
----
-
-### Questão 14: Qual das afirmações abaixo é verdadeira?
-
-A) O produto de duas matrizes quadradas sempre resulta em uma matriz quadrada da mesma ordem
-B) A matriz transposta de uma matriz identidade é sempre nula
-C) O determinante de uma matriz identidade é sempre zero
-D) Se uma matriz quadrada tem determinante diferente de zero, então ela é invertível
+A) Verdadeiro
+B) Falso
+C) Indeterminado
+D) Igual a P
 
 ---
 
-### Questão 15:  Se A é uma matriz de ordem 3x3 e det(A) = 5, qual é o valor de det(2A)?
+### Questão 8: Qual das frases a seguir pode ser interpretada como uma proposição composta?
 
-A) 10
-B) 20
-C) 40
-D) 125
+A) Eu gosto de matemática
+B) Hoje está quente ou chovendo
+C) Você está bem?
+D) Abra a janela
+
+---
+
+### Questão 9: A tabela verdade de uma conjunção (P e Q) tem quantas linhas?
+
+A) 2
+B) 3
+C) 4
+D) 5
+
+---
+
+### Questão 10: A linguagem da lógica proposicional utiliza símbolos para representar:
+
+A) Apenas frases matemáticas
+B) Conceitos abstratos sem relação com frases
+C) Expressões que podem ser verdadeiras ou falsas
+D) Apenas comandos de programação
 
 ---
 
 
 ## Gabarito:
 
-1) B;
-2) C;
+1) C;
+2) B;
 3) B;
 4) B;
-5) A;
-6) D;
-7) A;
+5) C;
+6) C;
+7) B;
 8) B;
-9) B;
-10) B;
-11) C;
-12) A;
-13) B;
-14) D;
-15) D;
+9) C;
+10) C;
