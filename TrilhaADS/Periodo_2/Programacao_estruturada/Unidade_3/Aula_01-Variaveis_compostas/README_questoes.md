@@ -2,109 +2,109 @@
 
 ---
 
-### Questão 1: Qual estrutura de seleção permite testar múltiplos valores de uma variável sem o uso de operadores relacionais?
+### Questão 1: Sobre variáveis compostas homogêneas, é correto afirmar que:
 
-A) if
-B) switch-case
-C) while
-D) for
-
----
-
-### Questão 2:  Qual palavra-chave é usada para definir uma condição em C++?
-
-A) switch
-B) if
-C) case
-D) break
+A) Elas podem armazenar valores de diferentes tipos de dados.
+B) São conhecidas como structs em C++.
+C) Arrays são um exemplo de variáveis compostas homogêneas.
+D) Sempre possuem tamanho variável na memória.
 
 ---
 
-### Questão 3: No C++, o que acontece se um bloco if não contiver chaves {}?
+### Questão 2:   Em relação a variáveis compostas heterogêneas, marque a alternativa correta:
 
-A) Apenas a primeira instrução após o if será considerada parte dele
-B) O compilador exibirá erro
-C) O código não será executado
-D) O programa encerrará automaticamente
-
----
-
-### Questão 4: O que significa o operador lógico "&&" em uma estrutura de seleção?
-
-A) OU lógico
-B) E lógico
-C) Negação lógica
-D) Comparação de igualdade
+A) São usadas para armazenar dados do mesmo tipo.
+B) Structs e classes podem ser exemplos desse tipo de variável.
+C) Um array de inteiros é um exemplo de variável composta heterogênea.
+D) São sempre armazenadas em memória contígua.
 
 ---
 
-### Questão 5: Dado o código abaixo, qual será a saída?
+### Questão 3: Considere a declaração int matriz[3][2];. Quantos elementos a matriz pode armazenar?
 
-int x = 10;
-if (x > 10) {
-    cout << "Maior";
-} else if (x == 10) {
-    cout << "Igual";
-} else {
-    cout << "Menor";
-}
-
-A) Maior
-B) Igual
-C) Menor
-D) Erro de compilação
+A) 3
+B) 5
+C) 6
+D) 9
 
 ---
 
-### Questão 6: No switch-case, qual comando é usado para evitar que os blocos de código continuem executando após um case ser satisfeito?
+### Questão 4: Qual alternativa representa a forma correta de acessar o elemento da segunda linha e primeira coluna da matriz int mat[4][4];?
 
-A) stop
-B) exit
-C) break
-D) return
-
----
-
-### Questão 7: O que acontece se um switch-case não possuir um caso default?
-
-A) O programa exibirá erro de compilação
-B) Apenas os casos correspondentes serão executados
-C) O default é obrigatório para o switch funcionar
-D) Todos os casos serão executados
+A) mat(2,1)
+B) mat[2][1]
+C) mat[1][0]
+D) mat[1][1]
 
 ---
 
-### Questão 8: Em um if-else, qual alternativa representa um erro de sintaxe?
+### Questão 5: Qual é a principal vantagem do uso de arrays multidimensionais?
 
-A) if (x > 5) cout << "Maior";
-B) if (x > 5) { cout << "Maior"; }
-C) if x > 5 { cout << "Maior"; }
-D) if (x > 5) cout << "Maior"; else cout << "Menor";
-
----
-
-### Questão 9: O que acontece se não utilizarmos um break dentro de um case no switch?
-
-A) O código dentro do case seguinte também será executado
-B) O programa encerrará automaticamente
-C) O compilador gerará erro
-D) O case será ignorado
+A) Aumentam o desempenho dos programas automaticamente.
+B) Permitem representar estruturas como tabelas e imagens.
+C) Reduzem o consumo de memória drasticamente.
+D) Eliminam a necessidade de uso de laços de repetição.
 
 ---
 
-### Questão 10: Qual será a saída do seguinte código?
+### Questão 6: Em um array bidimensional int arr[3][4];, quantas colunas existem?
 
-int a = 7;
-if (a > 5 || a < 3) {
-    cout << "Verdadeiro";
-} else {
-    cout << "Falso";
-}
+A) 3
+B) 4
+C) 7
+D) 12
 
-A) Verdadeiro
-B) Falso
-C) Erro de compilação
-D) Nenhuma saída
+---
+
+### Questão 7: Qual das alternativas abaixo inicializa corretamente uma matriz 2x2 de inteiros em C++?
+
+A) int mat[2][2] = {1, 2, 3, 4};
+B) int mat[2][2] = {{1, 2}, {3, 4}};
+C) int mat[2][2] = [1, 2, 3, 4];
+D) int mat[2,2] = {1, 2, 3, 4};
+
+---
+
+### Questão 8:  Considerando float notas[3][2], como acessar o último elemento corretamente?
+
+A) notas[2][1]
+B) notas[3][2]
+C) notas[1][2]
+D) notas[2][2]
+
+---
+
+### Questão 9: O que acontece se tentarmos acessar um índice fora dos limites de um array em C++?
+
+A) O programa sempre exibe um erro de compilação.
+B) O código para de executar imediatamente.
+C) O programa pode apresentar comportamento indefinido.
+D) O compilador ajusta automaticamente os índices para um valor válido.
+
+---
+
+### Questão 10: Qual código soma corretamente todos os elementos da matriz int M[2][3] = {{1, 2, 3}, {4, 5, 6}};?
+
+A)
+int soma = 0;
+for (int i = 1; i <= 2; i++)
+    for (int j = 1; j <= 3; j++)
+        soma += M[i][j];
+B)
+int soma = 0;
+for (int i = 0; i < 2; i++)
+    for (int j = 0; j < 3; j++)
+        soma += M[i][j];
+C)
+int soma = 0;
+for (int i = 0; i < 3; i++)
+    for (int j = 0; j < 2; j++)
+        soma += M[i][j];
+D)
+int soma = 0;
+for (int i = 1; i < 2; i++)
+    for (int j = 1; j < 3; j++)
+        soma += M[i][j];
 
 ---
 
@@ -112,13 +112,13 @@ D) Nenhuma saída
 
 ## Gabarito:
 
-1) B;
+1) C;
 2) B;
-3) A;
-4) B;
+3) C;
+4) C;
 5) B;
-6) C;
+6) B;
 7) B;
-8) C;
-9) A;
-10) A;
+8) A;
+9) C;
+10) B;
