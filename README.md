@@ -179,6 +179,20 @@ Este repositório contém apontamentos, resenhas de livros e trabalhos realizado
     - Características dos bancos de dados
       - [Resumo da Aula](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_2/Banco_de_dados/Unidade_2/Aula_02-Caracteristicas_banco_de_dados/README_resumo..md)
       - [Questionário](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_2/Banco_de_dados/Unidade_2/Aula_02-Caracteristicas_banco_de_dados/README_questoes.md)
+  - Unidade 3
+    - Modelagem conceitual e projeto de banco de dados
+      - [Resumo da Aula](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_2/Banco_de_dados/Unidade_3/Aula_01-Modelagem_conceitual_e_projeto/README_resumo..md)
+      - [Questionário](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_2/Banco_de_dados/Unidade_3/Aula_01-Modelagem_conceitual_e_projeto/README_questoes.md)
+    - Modelagem de banco de dados
+      - [Resumo da Aula](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_2/Banco_de_dados/Unidade_3/Aula_02-Modelagem_de_banco_de_dados/README_resumo..md)
+      - [Questionário](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_2/Banco_de_dados/Unidade_3/Aula_02-Modelagem_de_banco_de_dados/README_questoes.md)
+  - Unidade 4
+    - Modelando do início ao fim
+      - [Resumo da Aula](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_2/Banco_de_dados/Unidade_4/Aula_01-Modelando_do_inicio_ao_fim/README_resumo..md)
+      - [Questionário](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_2/Banco_de_dados/Unidade_4/Aula_01-Modelando_do_inicio_ao_fim/README_questoes.md)
+    - Linguagens de banco de dados
+      - [Resumo da Aula](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_2/Banco_de_dados/Unidade_4/Aula_02-Linguagens_de_banco_de_dados/README_resumo..md)
+      - [Questionário](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_2/Banco_de_dados/Unidade_4/Aula_02-Linguagens_de_banco_de_dados/README_questoes.md)
 
 - **Matemática Computacional**
   - Unidade 1
@@ -195,6 +209,20 @@ Este repositório contém apontamentos, resenhas de livros e trabalhos realizado
     - Matrizes
       - [Resumo da Aula](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_2/Matem%C3%A1tica_computacional/Unidade_2/Aula_02-Matrizes/README_resumo..md)
       - [Questionário](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_2/Matem%C3%A1tica_computacional/Unidade_2/Aula_02-Matrizes/README_questoes.md)
+  - Unidade 3
+    - Operações fundamentais no conjunto de números reais
+      - [Resumo da Aula](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_2/Matem%C3%A1tica_computacional/Unidade_3/Aula_01-Operacoes_fundamentais_no_conjunto_reais/README_resumo..md)
+      - [Questionário](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_2/Matem%C3%A1tica_computacional/Unidade_3/Aula_01-Operacoes_fundamentais_no_conjunto_reais/README_questoes.md)
+    - Lógica proposicional
+      - [Resumo da Aula](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_2/Matem%C3%A1tica_computacional/Unidade_3/Aula_02-Logica_proposicional/README_resumo..md)
+      - [Questionário](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_2/Matem%C3%A1tica_computacional/Unidade_3/Aula_02-Logica_proposicional/README_questoes.md)
+  - Unidade 4
+    - Propriedades semânticas, equivalência e argumentação
+      - [Resumo da Aula](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_2/Matem%C3%A1tica_computacional/Unidade_4/Aula_01-Propriedades_semanticas_equivalencia_argumentacao/README_resumo..md)
+      - [Questionário](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_2/Matem%C3%A1tica_computacional/Unidade_4/Aula_01-Propriedades_semanticas_equivalencia_argumentacao/README_questoes.md)
+    - Conversão de bases
+      - [Resumo da Aula](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_2/Matem%C3%A1tica_computacional/Unidade_4/Aula_02-Conversao_de_bases/README_resumo..md)
+      - [Questionário](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_2/Matem%C3%A1tica_computacional/Unidade_4/Aula_02-Conversao_de_bases/README_questoes.md)
 
 - **Programação Estruturada**
   - Unidade 1
@@ -211,6 +239,20 @@ Este repositório contém apontamentos, resenhas de livros e trabalhos realizado
     - Estruturas de repetição
       - [Resumo da Aula](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_2/Programacao_estruturada/Unidade_2/Aula_02-Estruturas_de_repeticao/README_resumo..md)
       - [Questionário](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_2/Programacao_estruturada/Unidade_2/Aula_02-Estruturas_de_repeticao/README_questoes.md)
+  - Unidade 3
+    - Variáveis compostas
+      - [Resumo da Aula](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_2/Programacao_estruturada/Unidade_3/Aula_01-Variaveis_compostas/README_resumo..md)
+      - [Questionário](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_2/Programacao_estruturada/Unidade_3/Aula_01-Variaveis_compostas/README_questoes.md)
+    - Strings
+      - [Resumo da Aula](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_2/Programacao_estruturada/Unidade_3/Aula_02-Strings/README_resumo..md)
+      - [Questionário](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_2/Programacao_estruturada/Unidade_3/Aula_02-Strings/README_questoes.md)
+  - Unidade 4
+    - Subprogramas
+      - [Resumo da Aula](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_2/Programacao_estruturada/Unidade_4/Aula_01-Subprogramas/README_resumo..md)
+      - [Questionário](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_2/Programacao_estruturada/Unidade_4/Aula_01-Subprogramas/README_questoes.md)
+    - Boa programação
+      - [Resumo da Aula](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_2/Programacao_estruturada/Unidade_4/Aula_02-Boa_programacao/README_resumo..md)
+      - [Questionário](https://github.com/SamuelRocha91/PandoAds/blob/main/TrilhaADS/Periodo_2/Programacao_estruturada/Unidade_4/Aula_02-Boa_programacao/README_questoes.md)
 
 </details>
 
